@@ -6,7 +6,7 @@ package proposer
 import (
 	"bytes"
 
-	"github.com/ava-labs/avalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/ids"
 )
 
 type validatorData struct {

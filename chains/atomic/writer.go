@@ -4,7 +4,7 @@
 package atomic
 
 import (
-	"github.com/ava-labs/avalanchego/database"
+	"github.com/Toinounet21/crabalanchego/database"
 )
 
 // WriteAll assumes all batches have the same underlying database. Batches

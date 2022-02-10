@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/snow"
-	"github.com/ava-labs/avalanchego/utils/logging"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/snow"
+	"github.com/Toinounet21/crabalanchego/utils/logging"
 )
 
 var _ snow.EventDispatcher = &EventDispatcher{}

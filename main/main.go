@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ava-labs/avalanchego/app/runner"
-	"github.com/ava-labs/avalanchego/config"
-	"github.com/ava-labs/avalanchego/version"
+	"github.com/Toinounet21/crabalanchego/app/runner"
+	"github.com/Toinounet21/crabalanchego/config"
+	"github.com/Toinounet21/crabalanchego/version"
 	"github.com/spf13/pflag"
 )
 

@@ -4,8 +4,8 @@
 package snowstorm
 
 import (
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/utils/wrappers"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/utils/wrappers"
 )
 
 // rejector implements Blockable

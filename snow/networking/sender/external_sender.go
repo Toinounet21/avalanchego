@@ -4,8 +4,8 @@
 package sender
 
 import (
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/message"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/message"
 )
 
 // ExternalSender sends consensus messages to other validators

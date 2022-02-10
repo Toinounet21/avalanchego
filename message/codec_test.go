@@ -14,9 +14,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/utils"
-	"github.com/ava-labs/avalanchego/utils/units"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/utils"
+	"github.com/Toinounet21/crabalanchego/utils/units"
 )
 
 func TestCodecPackInvalidOp(t *testing.T) {

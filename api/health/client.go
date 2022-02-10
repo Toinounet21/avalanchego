@@ -7,7 +7,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/ava-labs/avalanchego/utils/rpc"
+	"github.com/Toinounet21/crabalanchego/utils/rpc"
 )
 
 // Interface compliance

@@ -8,11 +8,11 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/snow"
-	"github.com/ava-labs/avalanchego/snow/choices"
-	"github.com/ava-labs/avalanchego/snow/consensus/metrics"
-	"github.com/ava-labs/avalanchego/snow/consensus/snowstorm"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/snow"
+	"github.com/Toinounet21/crabalanchego/snow/choices"
+	"github.com/Toinounet21/crabalanchego/snow/consensus/metrics"
+	"github.com/Toinounet21/crabalanchego/snow/consensus/snowstorm"
 )
 
 const (

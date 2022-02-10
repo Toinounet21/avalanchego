@@ -9,14 +9,14 @@ import (
 	"math"
 	"time"
 
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/snow"
-	"github.com/ava-labs/avalanchego/snow/choices"
-	"github.com/ava-labs/avalanchego/snow/consensus/snowman"
-	"github.com/ava-labs/avalanchego/snow/engine/common"
-	"github.com/ava-labs/avalanchego/snow/engine/snowman/block"
-	"github.com/ava-labs/avalanchego/utils/timer"
-	"github.com/ava-labs/avalanchego/version"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/snow"
+	"github.com/Toinounet21/crabalanchego/snow/choices"
+	"github.com/Toinounet21/crabalanchego/snow/consensus/snowman"
+	"github.com/Toinounet21/crabalanchego/snow/engine/common"
+	"github.com/Toinounet21/crabalanchego/snow/engine/snowman/block"
+	"github.com/Toinounet21/crabalanchego/utils/timer"
+	"github.com/Toinounet21/crabalanchego/version"
 )
 
 // Parameters for delaying bootstrapping to avoid potential CPU burns

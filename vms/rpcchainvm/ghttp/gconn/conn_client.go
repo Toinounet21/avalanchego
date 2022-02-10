@@ -10,8 +10,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/ava-labs/avalanchego/api/proto/gconnproto"
-	"github.com/ava-labs/avalanchego/utils/wrappers"
+	"github.com/Toinounet21/crabalanchego/api/proto/gconnproto"
+	"github.com/Toinounet21/crabalanchego/utils/wrappers"
 )
 
 var _ net.Conn = &Client{}

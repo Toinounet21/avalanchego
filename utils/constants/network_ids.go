@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ava-labs/avalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/ids"
 )
 
 // Const variables to be exported

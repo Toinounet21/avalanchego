@@ -6,8 +6,8 @@ package vertex
 import (
 	"container/heap"
 
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/snow/consensus/avalanche"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/snow/consensus/avalanche"
 )
 
 var (

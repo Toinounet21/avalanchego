@@ -10,12 +10,12 @@ import (
 	"sort"
 	"time"
 
-	"github.com/ava-labs/avalanchego/database"
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/snow/validators"
-	"github.com/ava-labs/avalanchego/utils/constants"
+	"github.com/Toinounet21/crabalanchego/database"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/snow/validators"
+	"github.com/Toinounet21/crabalanchego/utils/constants"
 
-	safemath "github.com/ava-labs/avalanchego/utils/math"
+	safemath "github.com/Toinounet21/crabalanchego/utils/math"
 )
 
 var (

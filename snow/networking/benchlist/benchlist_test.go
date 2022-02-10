@@ -11,10 +11,10 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/snow/validators"
-	"github.com/ava-labs/avalanchego/utils/logging"
-	"github.com/ava-labs/avalanchego/utils/wrappers"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/snow/validators"
+	"github.com/Toinounet21/crabalanchego/utils/logging"
+	"github.com/Toinounet21/crabalanchego/utils/wrappers"
 )
 
 var minimumFailingDuration = 5 * time.Minute

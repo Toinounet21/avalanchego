@@ -6,7 +6,7 @@ package snowball
 import (
 	"testing"
 
-	"github.com/ava-labs/avalanchego/utils/sampler"
+	"github.com/Toinounet21/crabalanchego/utils/sampler"
 )
 
 func TestSnowballOptimized(t *testing.T) {

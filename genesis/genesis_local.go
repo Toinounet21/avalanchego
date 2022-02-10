@@ -6,8 +6,8 @@ package genesis
 import (
 	"time"
 
-	"github.com/ava-labs/avalanchego/utils/units"
-	"github.com/ava-labs/avalanchego/vms/platformvm/reward"
+	"github.com/Toinounet21/crabalanchego/utils/units"
+	"github.com/Toinounet21/crabalanchego/vms/platformvm/reward"
 )
 
 // PrivateKey-vmRQiZeXEXYMyJhEiqdC2z5JhuDbxL8ix9UVvjgMu2Er1NepE => P-local1g65uqn6t77p656w64023nh8nd9updzmxyymev2

@@ -4,8 +4,8 @@
 package propertyfx
 
 import (
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/snow"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/snow"
 )
 
 // ID that this Fx uses when labeled

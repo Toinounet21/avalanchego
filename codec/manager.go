@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/ava-labs/avalanchego/utils/units"
-	"github.com/ava-labs/avalanchego/utils/wrappers"
+	"github.com/Toinounet21/crabalanchego/utils/units"
+	"github.com/Toinounet21/crabalanchego/utils/wrappers"
 )
 
 const (

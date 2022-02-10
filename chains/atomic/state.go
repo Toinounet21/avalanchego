@@ -7,13 +7,13 @@ import (
 	"bytes"
 	"errors"
 
-	"github.com/ava-labs/avalanchego/codec"
-	"github.com/ava-labs/avalanchego/database"
-	"github.com/ava-labs/avalanchego/database/linkeddb"
-	"github.com/ava-labs/avalanchego/database/prefixdb"
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/utils"
-	"github.com/ava-labs/avalanchego/utils/hashing"
+	"github.com/Toinounet21/crabalanchego/codec"
+	"github.com/Toinounet21/crabalanchego/database"
+	"github.com/Toinounet21/crabalanchego/database/linkeddb"
+	"github.com/Toinounet21/crabalanchego/database/prefixdb"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/utils"
+	"github.com/Toinounet21/crabalanchego/utils/hashing"
 )
 
 var errDuplicatedOperation = errors.New("duplicated operation on provided value")

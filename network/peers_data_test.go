@@ -6,9 +6,9 @@ package network
 import (
 	"testing"
 
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/snow/validators"
-	"github.com/ava-labs/avalanchego/utils/constants"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/snow/validators"
+	"github.com/Toinounet21/crabalanchego/utils/constants"
 	"github.com/stretchr/testify/assert"
 )
 

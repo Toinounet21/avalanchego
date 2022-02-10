@@ -4,9 +4,9 @@
 package avalanche
 
 import (
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/snow/choices"
-	"github.com/ava-labs/avalanchego/snow/consensus/snowstorm"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/snow/choices"
+	"github.com/Toinounet21/crabalanchego/snow/consensus/snowstorm"
 )
 
 var _ Vertex = &TestVertex{}

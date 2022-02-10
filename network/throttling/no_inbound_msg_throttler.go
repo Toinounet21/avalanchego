@@ -3,7 +3,7 @@
 
 package throttling
 
-import "github.com/ava-labs/avalanchego/ids"
+import "github.com/Toinounet21/crabalanchego/ids"
 
 var _ InboundMsgThrottler = &noInboundMsgThrottler{}
 

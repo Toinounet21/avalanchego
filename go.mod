@@ -1,4 +1,4 @@
-module github.com/ava-labs/avalanchego
+module github.com/Toinounet21/crabalanchego
 
 // Changes to the minimum golang version must also be replicated in
 // scripts/ansible/roles/golang_base/defaults/main.yml
@@ -12,7 +12,7 @@ go 1.16
 require (
 	github.com/Microsoft/go-winio v0.4.14
 	github.com/NYTimes/gziphandler v1.1.1
-	github.com/ava-labs/coreth v0.8.5-rc.2
+	github.com/Toinounet21/crabeth v0.9.0
 	github.com/btcsuite/btcutil v1.0.2
 	github.com/decred/dcrd/dcrec/secp256k1/v3 v3.0.0-20200627015759-01fd2de07837
 	github.com/golang-jwt/jwt v3.2.1+incompatible

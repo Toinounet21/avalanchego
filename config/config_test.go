@@ -18,10 +18,10 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ava-labs/avalanchego/chains"
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/snow/consensus/avalanche"
-	"github.com/ava-labs/avalanchego/snow/consensus/snowball"
+	"github.com/Toinounet21/crabalanchego/chains"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/snow/consensus/avalanche"
+	"github.com/Toinounet21/crabalanchego/snow/consensus/snowball"
 )
 
 func TestGetChainConfigsFromFiles(t *testing.T) {

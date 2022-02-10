@@ -4,9 +4,9 @@
 package throttling
 
 import (
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/snow/validators"
-	"github.com/ava-labs/avalanchego/utils/logging"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/snow/validators"
+	"github.com/Toinounet21/crabalanchego/utils/logging"
 	"github.com/prometheus/client_golang/prometheus"
 )
 

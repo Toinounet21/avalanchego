@@ -9,8 +9,8 @@ import (
 
 	"golang.org/x/net/context"
 
-	"github.com/ava-labs/avalanchego/api/proto/rpcdbproto"
-	"github.com/ava-labs/avalanchego/database"
+	"github.com/Toinounet21/crabalanchego/api/proto/rpcdbproto"
+	"github.com/Toinounet21/crabalanchego/database"
 )
 
 var errUnknownIterator = errors.New("unknown iterator")

@@ -7,9 +7,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ava-labs/avalanchego/utils"
-	"github.com/ava-labs/avalanchego/utils/logging"
-	"github.com/ava-labs/avalanchego/utils/timer/mockable"
+	"github.com/Toinounet21/crabalanchego/utils"
+	"github.com/Toinounet21/crabalanchego/utils/logging"
+	"github.com/Toinounet21/crabalanchego/utils/timer/mockable"
 )
 
 var (

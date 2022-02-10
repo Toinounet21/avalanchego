@@ -6,7 +6,7 @@ package events
 import (
 	"testing"
 
-	"github.com/ava-labs/avalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/ids"
 )
 
 func TestBlocker(t *testing.T) {

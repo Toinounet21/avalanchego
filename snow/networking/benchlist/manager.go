@@ -8,10 +8,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/snow"
-	"github.com/ava-labs/avalanchego/snow/validators"
-	"github.com/ava-labs/avalanchego/utils/constants"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/snow"
+	"github.com/Toinounet21/crabalanchego/snow/validators"
+	"github.com/Toinounet21/crabalanchego/utils/constants"
 )
 
 var errUnknownValidators = errors.New("unknown validator set for provided chain")

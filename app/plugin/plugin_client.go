@@ -8,7 +8,7 @@ import (
 
 	"google.golang.org/protobuf/types/known/emptypb"
 
-	"github.com/ava-labs/avalanchego/api/proto/pluginproto"
+	"github.com/Toinounet21/crabalanchego/api/proto/pluginproto"
 )
 
 type Client struct {

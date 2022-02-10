@@ -6,14 +6,14 @@ package snowstorm
 import (
 	"fmt"
 
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/snow"
-	"github.com/ava-labs/avalanchego/snow/choices"
-	"github.com/ava-labs/avalanchego/snow/consensus/metrics"
-	"github.com/ava-labs/avalanchego/snow/events"
-	"github.com/ava-labs/avalanchego/utils/wrappers"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/snow"
+	"github.com/Toinounet21/crabalanchego/snow/choices"
+	"github.com/Toinounet21/crabalanchego/snow/consensus/metrics"
+	"github.com/Toinounet21/crabalanchego/snow/events"
+	"github.com/Toinounet21/crabalanchego/utils/wrappers"
 
-	sbcon "github.com/ava-labs/avalanchego/snow/consensus/snowball"
+	sbcon "github.com/Toinounet21/crabalanchego/snow/consensus/snowball"
 )
 
 var _ Consensus = &Directed{}

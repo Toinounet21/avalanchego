@@ -8,12 +8,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/utils/crypto"
-	"github.com/ava-labs/avalanchego/vms/components/avax"
-	"github.com/ava-labs/avalanchego/vms/platformvm/reward"
-	"github.com/ava-labs/avalanchego/vms/platformvm/status"
-	"github.com/ava-labs/avalanchego/vms/secp256k1fx"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/utils/crypto"
+	"github.com/Toinounet21/crabalanchego/vms/components/avax"
+	"github.com/Toinounet21/crabalanchego/vms/platformvm/reward"
+	"github.com/Toinounet21/crabalanchego/vms/platformvm/status"
+	"github.com/Toinounet21/crabalanchego/vms/secp256k1fx"
 )
 
 func TestAddValidatorTxSyntacticVerify(t *testing.T) {

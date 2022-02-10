@@ -6,14 +6,14 @@ package throttling
 import (
 	"time"
 
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/snow/validators"
-	"github.com/ava-labs/avalanchego/utils/constants"
-	"github.com/ava-labs/avalanchego/utils/linkedhashmap"
-	"github.com/ava-labs/avalanchego/utils/logging"
-	"github.com/ava-labs/avalanchego/utils/math"
-	"github.com/ava-labs/avalanchego/utils/metric"
-	"github.com/ava-labs/avalanchego/utils/wrappers"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/snow/validators"
+	"github.com/Toinounet21/crabalanchego/utils/constants"
+	"github.com/Toinounet21/crabalanchego/utils/linkedhashmap"
+	"github.com/Toinounet21/crabalanchego/utils/logging"
+	"github.com/Toinounet21/crabalanchego/utils/math"
+	"github.com/Toinounet21/crabalanchego/utils/metric"
+	"github.com/Toinounet21/crabalanchego/utils/wrappers"
 	"github.com/prometheus/client_golang/prometheus"
 )
 

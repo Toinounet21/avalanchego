@@ -4,11 +4,11 @@
 package avalanche
 
 import (
-	"github.com/ava-labs/avalanchego/snow"
-	"github.com/ava-labs/avalanchego/snow/consensus/avalanche"
-	"github.com/ava-labs/avalanchego/snow/engine/avalanche/vertex"
-	"github.com/ava-labs/avalanchego/snow/engine/common"
-	"github.com/ava-labs/avalanchego/snow/validators"
+	"github.com/Toinounet21/crabalanchego/snow"
+	"github.com/Toinounet21/crabalanchego/snow/consensus/avalanche"
+	"github.com/Toinounet21/crabalanchego/snow/engine/avalanche/vertex"
+	"github.com/Toinounet21/crabalanchego/snow/engine/common"
+	"github.com/Toinounet21/crabalanchego/snow/validators"
 )
 
 // Config wraps all the parameters needed for an avalanche engine

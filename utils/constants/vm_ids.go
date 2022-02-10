@@ -3,7 +3,7 @@
 
 package constants
 
-import "github.com/ava-labs/avalanchego/ids"
+import "github.com/Toinounet21/crabalanchego/ids"
 
 var (
 	PlatformVMID = ids.ID{'p', 'l', 'a', 't', 'f', 'o', 'r', 'm', 'v', 'm'}

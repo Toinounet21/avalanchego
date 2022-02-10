@@ -6,9 +6,9 @@ package atomic
 import (
 	"bytes"
 
-	"github.com/ava-labs/avalanchego/database"
-	"github.com/ava-labs/avalanchego/database/prefixdb"
-	"github.com/ava-labs/avalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/database"
+	"github.com/Toinounet21/crabalanchego/database/prefixdb"
+	"github.com/Toinounet21/crabalanchego/ids"
 )
 
 var (

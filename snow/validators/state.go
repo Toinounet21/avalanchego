@@ -6,7 +6,7 @@ package validators
 import (
 	"sync"
 
-	"github.com/ava-labs/avalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/ids"
 )
 
 var _ State = &lockedState{}

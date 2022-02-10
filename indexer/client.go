@@ -7,8 +7,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/ava-labs/avalanchego/utils/formatting"
-	"github.com/ava-labs/avalanchego/utils/rpc"
+	"github.com/Toinounet21/crabalanchego/utils/formatting"
+	"github.com/Toinounet21/crabalanchego/utils/rpc"
 )
 
 // Interface compliance

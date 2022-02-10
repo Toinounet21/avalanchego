@@ -6,9 +6,9 @@ package propertyfx
 import (
 	"errors"
 
-	"github.com/ava-labs/avalanchego/utils/wrappers"
-	"github.com/ava-labs/avalanchego/vms/components/verify"
-	"github.com/ava-labs/avalanchego/vms/secp256k1fx"
+	"github.com/Toinounet21/crabalanchego/utils/wrappers"
+	"github.com/Toinounet21/crabalanchego/vms/components/verify"
+	"github.com/Toinounet21/crabalanchego/vms/secp256k1fx"
 )
 
 var (

@@ -4,8 +4,8 @@
 package genesis
 
 import (
-	"github.com/ava-labs/avalanchego/utils/constants"
-	"github.com/ava-labs/avalanchego/utils/sampler"
+	"github.com/Toinounet21/crabalanchego/utils/constants"
+	"github.com/Toinounet21/crabalanchego/utils/sampler"
 )
 
 // getIPs returns the beacon IPs for each network

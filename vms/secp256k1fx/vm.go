@@ -4,9 +4,9 @@
 package secp256k1fx
 
 import (
-	"github.com/ava-labs/avalanchego/codec"
-	"github.com/ava-labs/avalanchego/utils/logging"
-	"github.com/ava-labs/avalanchego/utils/timer/mockable"
+	"github.com/Toinounet21/crabalanchego/codec"
+	"github.com/Toinounet21/crabalanchego/utils/logging"
+	"github.com/Toinounet21/crabalanchego/utils/timer/mockable"
 )
 
 // VM that this Fx must be run by

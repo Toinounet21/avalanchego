@@ -12,13 +12,13 @@ import (
 
 	"github.com/prometheus/client_golang/prometheus"
 
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/snow/validators"
-	"github.com/ava-labs/avalanchego/utils/logging"
-	"github.com/ava-labs/avalanchego/utils/timer"
-	"github.com/ava-labs/avalanchego/utils/timer/mockable"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/snow/validators"
+	"github.com/Toinounet21/crabalanchego/utils/logging"
+	"github.com/Toinounet21/crabalanchego/utils/timer"
+	"github.com/Toinounet21/crabalanchego/utils/timer/mockable"
 
-	safemath "github.com/ava-labs/avalanchego/utils/math"
+	safemath "github.com/Toinounet21/crabalanchego/utils/math"
 )
 
 // If a peer consistently does not respond to queries, it will

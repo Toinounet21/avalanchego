@@ -7,10 +7,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/utils/constants"
-	"github.com/ava-labs/avalanchego/utils/crypto"
-	"github.com/ava-labs/avalanchego/vms/platformvm/message"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/utils/constants"
+	"github.com/Toinounet21/crabalanchego/utils/crypto"
+	"github.com/Toinounet21/crabalanchego/vms/platformvm/message"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -6,7 +6,7 @@ package platformvm
 import (
 	"fmt"
 
-	"github.com/ava-labs/avalanchego/utils/constants"
+	"github.com/Toinounet21/crabalanchego/utils/constants"
 )
 
 // HealthCheck implements the common.VM interface

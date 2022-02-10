@@ -8,7 +8,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/ava-labs/avalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/ids"
 )
 
 // Manager holds the validator set of each subnet

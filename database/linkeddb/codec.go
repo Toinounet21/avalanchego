@@ -6,9 +6,9 @@ package linkeddb
 import (
 	"math"
 
-	"github.com/ava-labs/avalanchego/codec"
-	"github.com/ava-labs/avalanchego/codec/linearcodec"
-	"github.com/ava-labs/avalanchego/codec/reflectcodec"
+	"github.com/Toinounet21/crabalanchego/codec"
+	"github.com/Toinounet21/crabalanchego/codec/linearcodec"
+	"github.com/Toinounet21/crabalanchego/codec/reflectcodec"
 )
 
 const (

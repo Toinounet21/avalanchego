@@ -4,9 +4,9 @@
 package avalanche
 
 import (
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/snow/consensus/avalanche"
-	"github.com/ava-labs/avalanchego/snow/engine/common"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/snow/consensus/avalanche"
+	"github.com/Toinounet21/crabalanchego/snow/engine/common"
 )
 
 // Engine describes the events that can occur on a consensus instance

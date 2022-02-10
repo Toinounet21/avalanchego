@@ -4,9 +4,9 @@
 package avalanche
 
 import (
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/snow/consensus/snowstorm"
-	"github.com/ava-labs/avalanchego/snow/engine/avalanche/vertex"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/snow/consensus/snowstorm"
+	"github.com/Toinounet21/crabalanchego/snow/engine/avalanche/vertex"
 )
 
 // Voter records chits received from [vdr] once its dependencies are met.

@@ -4,10 +4,10 @@
 package bootstrap
 
 import (
-	"github.com/ava-labs/avalanchego/snow/engine/avalanche/vertex"
-	"github.com/ava-labs/avalanchego/snow/engine/common"
-	"github.com/ava-labs/avalanchego/snow/engine/common/queue"
-	"github.com/ava-labs/avalanchego/snow/engine/common/tracker"
+	"github.com/Toinounet21/crabalanchego/snow/engine/avalanche/vertex"
+	"github.com/Toinounet21/crabalanchego/snow/engine/common"
+	"github.com/Toinounet21/crabalanchego/snow/engine/common/queue"
+	"github.com/Toinounet21/crabalanchego/snow/engine/common/tracker"
 )
 
 type Config struct {

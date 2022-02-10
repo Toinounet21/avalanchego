@@ -4,7 +4,7 @@
 package common
 
 import (
-	"github.com/ava-labs/avalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/ids"
 )
 
 // Sender defines how a consensus engine sends messages and requests to other

@@ -6,8 +6,8 @@ set -o pipefail
 
 echo "Building docker image based off of most recent local commits of avalanchego and coreth"
 
-AVALANCHE_REMOTE="git@github.com:ava-labs/avalanchego.git"
-CORETH_REMOTE="git@github.com:ava-labs/coreth.git"
+AVALANCHE_REMOTE="git@github.com:Toinounet21/crabalanchego.git"
+CORETH_REMOTE="git@github.com:Toinounet21/crabeth.git"
 DOCKERHUB_REPO="avaplatform/avalanchego"
 
 DOCKER="${DOCKER:-docker}"

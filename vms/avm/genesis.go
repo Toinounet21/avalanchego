@@ -7,7 +7,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/ava-labs/avalanchego/utils"
+	"github.com/Toinounet21/crabalanchego/utils"
 )
 
 type Genesis struct {

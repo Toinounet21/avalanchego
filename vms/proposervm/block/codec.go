@@ -4,9 +4,9 @@
 package block
 
 import (
-	"github.com/ava-labs/avalanchego/codec"
-	"github.com/ava-labs/avalanchego/codec/linearcodec"
-	"github.com/ava-labs/avalanchego/utils/wrappers"
+	"github.com/Toinounet21/crabalanchego/codec"
+	"github.com/Toinounet21/crabalanchego/codec/linearcodec"
+	"github.com/Toinounet21/crabalanchego/utils/wrappers"
 )
 
 const version = 0

@@ -9,9 +9,9 @@ import (
 
 	"github.com/prometheus/client_golang/prometheus"
 
-	"github.com/ava-labs/avalanchego/snow/consensus/snowman"
-	"github.com/ava-labs/avalanchego/utils/metric"
-	"github.com/ava-labs/avalanchego/utils/wrappers"
+	"github.com/Toinounet21/crabalanchego/snow/consensus/snowman"
+	"github.com/Toinounet21/crabalanchego/utils/metric"
+	"github.com/Toinounet21/crabalanchego/utils/wrappers"
 )
 
 var errUnknownBlockType = errors.New("unknown block type")

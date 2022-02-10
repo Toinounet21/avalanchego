@@ -8,9 +8,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ava-labs/avalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/ids"
 
-	"github.com/ava-labs/avalanchego/vms/components/avax"
+	"github.com/Toinounet21/crabalanchego/vms/components/avax"
 )
 
 func TestBaseTxMarshalJSON(t *testing.T) {

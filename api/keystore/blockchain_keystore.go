@@ -4,9 +4,9 @@
 package keystore
 
 import (
-	"github.com/ava-labs/avalanchego/database"
-	"github.com/ava-labs/avalanchego/database/encdb"
-	"github.com/ava-labs/avalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/database"
+	"github.com/Toinounet21/crabalanchego/database/encdb"
+	"github.com/Toinounet21/crabalanchego/ids"
 )
 
 var _ BlockchainKeystore = &blockchainKeystore{}

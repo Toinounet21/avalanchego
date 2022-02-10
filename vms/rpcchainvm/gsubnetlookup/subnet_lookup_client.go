@@ -6,9 +6,9 @@ package gsubnetlookup
 import (
 	"context"
 
-	"github.com/ava-labs/avalanchego/api/proto/gsubnetlookupproto"
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/snow"
+	"github.com/Toinounet21/crabalanchego/api/proto/gsubnetlookupproto"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/snow"
 )
 
 var _ snow.SubnetLookup = &Client{}

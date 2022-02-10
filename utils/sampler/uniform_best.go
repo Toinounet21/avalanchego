@@ -8,7 +8,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/ava-labs/avalanchego/utils/timer/mockable"
+	"github.com/Toinounet21/crabalanchego/utils/timer/mockable"
 )
 
 var errNoValidUniformSamplers = errors.New("no valid uniform samplers found")

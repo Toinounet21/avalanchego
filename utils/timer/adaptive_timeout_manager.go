@@ -12,11 +12,11 @@ import (
 
 	"github.com/prometheus/client_golang/prometheus"
 
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/message"
-	"github.com/ava-labs/avalanchego/utils/math"
-	"github.com/ava-labs/avalanchego/utils/timer/mockable"
-	"github.com/ava-labs/avalanchego/utils/wrappers"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/message"
+	"github.com/Toinounet21/crabalanchego/utils/math"
+	"github.com/Toinounet21/crabalanchego/utils/timer/mockable"
+	"github.com/Toinounet21/crabalanchego/utils/wrappers"
 )
 
 var errNonPositiveHalflife = errors.New("timeout halflife must be positive")

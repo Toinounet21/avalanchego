@@ -6,7 +6,7 @@ package avalanche
 import (
 	"fmt"
 
-	"github.com/ava-labs/avalanchego/snow/consensus/snowball"
+	"github.com/Toinounet21/crabalanchego/snow/consensus/snowball"
 )
 
 // Parameters the avalanche parameters include the snowball parameters and the

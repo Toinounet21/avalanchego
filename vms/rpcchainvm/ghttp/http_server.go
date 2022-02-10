@@ -12,12 +12,12 @@ import (
 
 	"github.com/hashicorp/go-plugin"
 
-	"github.com/ava-labs/avalanchego/api/proto/ghttpproto"
-	"github.com/ava-labs/avalanchego/api/proto/greadcloserproto"
-	"github.com/ava-labs/avalanchego/api/proto/gresponsewriterproto"
-	"github.com/ava-labs/avalanchego/utils/wrappers"
-	"github.com/ava-labs/avalanchego/vms/rpcchainvm/ghttp/greadcloser"
-	"github.com/ava-labs/avalanchego/vms/rpcchainvm/ghttp/gresponsewriter"
+	"github.com/Toinounet21/crabalanchego/api/proto/ghttpproto"
+	"github.com/Toinounet21/crabalanchego/api/proto/greadcloserproto"
+	"github.com/Toinounet21/crabalanchego/api/proto/gresponsewriterproto"
+	"github.com/Toinounet21/crabalanchego/utils/wrappers"
+	"github.com/Toinounet21/crabalanchego/vms/rpcchainvm/ghttp/greadcloser"
+	"github.com/Toinounet21/crabalanchego/vms/rpcchainvm/ghttp/gresponsewriter"
 )
 
 var _ ghttpproto.HTTPServer = &Server{}

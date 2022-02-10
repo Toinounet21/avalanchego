@@ -6,7 +6,7 @@ package sampler
 import (
 	"sort"
 
-	safemath "github.com/ava-labs/avalanchego/utils/math"
+	safemath "github.com/Toinounet21/crabalanchego/utils/math"
 )
 
 type weightedHeapElement struct {

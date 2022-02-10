@@ -1,6 +1,6 @@
 syntax = "proto3";
 package greadcloserproto;
-option go_package = "github.com/ava-labs/avalanchego/api/greadcloserproto";
+option go_package = "github.com/Toinounet21/crabalanchego/api/greadcloserproto";
 
 message ReadRequest {
     int32 length = 1;

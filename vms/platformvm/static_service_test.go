@@ -6,10 +6,10 @@ package platformvm
 import (
 	"testing"
 
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/utils/constants"
-	"github.com/ava-labs/avalanchego/utils/formatting"
-	"github.com/ava-labs/avalanchego/utils/json"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/utils/constants"
+	"github.com/Toinounet21/crabalanchego/utils/formatting"
+	"github.com/Toinounet21/crabalanchego/utils/json"
 )
 
 func TestBuildGenesisInvalidUTXOBalance(t *testing.T) {

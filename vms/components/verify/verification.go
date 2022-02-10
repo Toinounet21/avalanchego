@@ -3,7 +3,7 @@
 
 package verify
 
-import "github.com/ava-labs/avalanchego/snow"
+import "github.com/Toinounet21/crabalanchego/snow"
 
 // Verifiable can be verified
 type Verifiable interface {

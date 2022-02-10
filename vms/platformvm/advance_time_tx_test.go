@@ -10,11 +10,11 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/utils/constants"
-	"github.com/ava-labs/avalanchego/utils/crypto"
-	"github.com/ava-labs/avalanchego/vms/platformvm/reward"
-	"github.com/ava-labs/avalanchego/vms/platformvm/status"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/utils/constants"
+	"github.com/Toinounet21/crabalanchego/utils/crypto"
+	"github.com/Toinounet21/crabalanchego/vms/platformvm/reward"
+	"github.com/Toinounet21/crabalanchego/vms/platformvm/status"
 )
 
 // Ensure semantic verification fails when proposed timestamp is at or before current timestamp
@@ -365,7 +365,7 @@ func TestAdvanceTimeTxUpdateStakers(t *testing.T) {
 	}
 }
 
-// Regression test for https://github.com/ava-labs/avalanchego/pull/584
+// Regression test for https://github.com/Toinounet21/crabalanchego/pull/584
 // that ensures it fixes a bug where subnet validators are not removed
 // when timestamp is advanced and there is a pending staker whose start time
 // is after the new timestamp

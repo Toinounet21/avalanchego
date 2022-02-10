@@ -8,11 +8,11 @@ import (
 
 	stdatomic "sync/atomic"
 
-	"github.com/ava-labs/avalanchego/api/proto/gsharedmemoryproto"
-	"github.com/ava-labs/avalanchego/chains/atomic"
-	"github.com/ava-labs/avalanchego/database"
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/utils/units"
+	"github.com/Toinounet21/crabalanchego/api/proto/gsharedmemoryproto"
+	"github.com/Toinounet21/crabalanchego/chains/atomic"
+	"github.com/Toinounet21/crabalanchego/database"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/utils/units"
 )
 
 const (

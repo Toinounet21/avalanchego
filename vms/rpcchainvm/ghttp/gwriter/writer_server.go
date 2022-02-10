@@ -7,7 +7,7 @@ import (
 	"context"
 	"io"
 
-	"github.com/ava-labs/avalanchego/api/proto/gwriterproto"
+	"github.com/Toinounet21/crabalanchego/api/proto/gwriterproto"
 )
 
 var _ gwriterproto.WriterServer = &Server{}

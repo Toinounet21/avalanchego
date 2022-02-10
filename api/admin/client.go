@@ -6,8 +6,8 @@ package admin
 import (
 	"context"
 
-	"github.com/ava-labs/avalanchego/api"
-	"github.com/ava-labs/avalanchego/utils/rpc"
+	"github.com/Toinounet21/crabalanchego/api"
+	"github.com/Toinounet21/crabalanchego/utils/rpc"
 )
 
 // Interface compliance

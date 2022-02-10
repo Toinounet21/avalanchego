@@ -4,8 +4,8 @@
 package snowman
 
 import (
-	"github.com/ava-labs/avalanchego/ids"
-	"github.com/ava-labs/avalanchego/snow/consensus/snowman"
+	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/crabalanchego/snow/consensus/snowman"
 )
 
 // issuer issues [blk] into to consensus after its dependencies are met.

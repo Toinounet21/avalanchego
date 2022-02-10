@@ -4,11 +4,11 @@
 package message
 
 import (
-	"github.com/ava-labs/avalanchego/codec"
-	"github.com/ava-labs/avalanchego/codec/linearcodec"
-	"github.com/ava-labs/avalanchego/codec/reflectcodec"
-	"github.com/ava-labs/avalanchego/utils/units"
-	"github.com/ava-labs/avalanchego/utils/wrappers"
+	"github.com/Toinounet21/crabalanchego/codec"
+	"github.com/Toinounet21/crabalanchego/codec/linearcodec"
+	"github.com/Toinounet21/crabalanchego/codec/reflectcodec"
+	"github.com/Toinounet21/crabalanchego/utils/units"
+	"github.com/Toinounet21/crabalanchego/utils/wrappers"
 )
 
 const (

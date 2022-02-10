@@ -6,8 +6,8 @@ package genesis
 import (
 	"time"
 
-	"github.com/ava-labs/avalanchego/utils/units"
-	"github.com/ava-labs/avalanchego/vms/platformvm/reward"
+	"github.com/Toinounet21/crabalanchego/utils/units"
+	"github.com/Toinounet21/crabalanchego/vms/platformvm/reward"
 )
 
 var (

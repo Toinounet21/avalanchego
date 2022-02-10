@@ -10,11 +10,11 @@ import (
 	"github.com/hashicorp/go-hclog"
 	"github.com/hashicorp/go-plugin"
 
-	"github.com/ava-labs/avalanchego/app"
-	"github.com/ava-labs/avalanchego/app/process"
-	"github.com/ava-labs/avalanchego/node"
+	"github.com/Toinounet21/crabalanchego/app"
+	"github.com/Toinounet21/crabalanchego/app/process"
+	"github.com/Toinounet21/crabalanchego/node"
 
-	appplugin "github.com/ava-labs/avalanchego/app/plugin"
+	appplugin "github.com/Toinounet21/crabalanchego/app/plugin"
 )
 
 // Run an AvalancheGo node.
