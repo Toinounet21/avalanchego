@@ -6,9 +6,9 @@ package snowstorm
 import (
 	"testing"
 
-	"github.com/Toinounet21/crabalanchego/utils/sampler"
+	"github.com/Toinounet21/swapalanchego/utils/sampler"
 
-	sbcon "github.com/Toinounet21/crabalanchego/snow/consensus/snowball"
+	sbcon "github.com/Toinounet21/swapalanchego/snow/consensus/snowball"
 )
 
 func Simulate(

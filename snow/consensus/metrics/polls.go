@@ -4,7 +4,7 @@
 package metrics
 
 import (
-	"github.com/Toinounet21/crabalanchego/utils/wrappers"
+	"github.com/Toinounet21/swapalanchego/utils/wrappers"
 	"github.com/prometheus/client_golang/prometheus"
 )
 

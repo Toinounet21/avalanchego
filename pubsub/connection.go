@@ -12,7 +12,7 @@ import (
 
 	"github.com/gorilla/websocket"
 
-	"github.com/Toinounet21/crabalanchego/utils/bloom"
+	"github.com/Toinounet21/swapalanchego/utils/bloom"
 )
 
 var (

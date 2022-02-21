@@ -6,11 +6,11 @@ package avm
 import (
 	"github.com/prometheus/client_golang/prometheus"
 
-	"github.com/Toinounet21/crabalanchego/cache"
-	"github.com/Toinounet21/crabalanchego/cache/metercacher"
-	"github.com/Toinounet21/crabalanchego/codec"
-	"github.com/Toinounet21/crabalanchego/database"
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/cache"
+	"github.com/Toinounet21/swapalanchego/cache/metercacher"
+	"github.com/Toinounet21/swapalanchego/codec"
+	"github.com/Toinounet21/swapalanchego/database"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 const (

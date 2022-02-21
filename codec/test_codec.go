@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/Toinounet21/crabalanchego/utils/wrappers"
+	"github.com/Toinounet21/swapalanchego/utils/wrappers"
 )
 
 var Tests = []func(c GeneralCodec, t testing.TB){

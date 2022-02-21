@@ -8,10 +8,10 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/database"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/utils/formatting"
-	"github.com/Toinounet21/crabalanchego/utils/json"
+	"github.com/Toinounet21/swapalanchego/database"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/utils/formatting"
+	"github.com/Toinounet21/swapalanchego/utils/json"
 )
 
 type service struct {

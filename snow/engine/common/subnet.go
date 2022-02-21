@@ -4,7 +4,7 @@
 package common
 
 import (
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 // Subnet describes the standard interface of a subnet description

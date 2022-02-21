@@ -6,8 +6,8 @@ package secp256k1fx
 import (
 	"errors"
 
-	"github.com/Toinounet21/crabalanchego/snow"
-	"github.com/Toinounet21/crabalanchego/vms/components/verify"
+	"github.com/Toinounet21/swapalanchego/snow"
+	"github.com/Toinounet21/swapalanchego/vms/components/verify"
 )
 
 var errNilMintOperation = errors.New("nil mint operation")

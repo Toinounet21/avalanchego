@@ -4,7 +4,7 @@
 package queue
 
 import (
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 // Job defines the interface required to be placed on the job queue.

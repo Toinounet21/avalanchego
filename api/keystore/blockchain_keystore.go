@@ -4,9 +4,9 @@
 package keystore
 
 import (
-	"github.com/Toinounet21/crabalanchego/database"
-	"github.com/Toinounet21/crabalanchego/database/encdb"
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/database"
+	"github.com/Toinounet21/swapalanchego/database/encdb"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 var _ BlockchainKeystore = &blockchainKeystore{}

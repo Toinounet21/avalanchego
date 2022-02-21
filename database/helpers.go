@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 var errWrongSize = errors.New("value has unexpected size")

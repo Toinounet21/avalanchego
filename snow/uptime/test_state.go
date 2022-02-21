@@ -6,8 +6,8 @@ package uptime
 import (
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/database"
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/database"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 var _ State = &TestState{}

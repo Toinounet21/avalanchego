@@ -7,9 +7,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/utils/linkedhashmap"
-	"github.com/Toinounet21/crabalanchego/utils/uptime"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/utils/linkedhashmap"
+	"github.com/Toinounet21/swapalanchego/utils/uptime"
 )
 
 const (

@@ -6,9 +6,9 @@ package info
 import (
 	"context"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/network"
-	"github.com/Toinounet21/crabalanchego/utils/rpc"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/network"
+	"github.com/Toinounet21/swapalanchego/utils/rpc"
 )
 
 // Interface compliance

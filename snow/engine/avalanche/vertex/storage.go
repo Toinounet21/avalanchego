@@ -4,8 +4,8 @@
 package vertex
 
 import (
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow/consensus/avalanche"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow/consensus/avalanche"
 )
 
 // Storage defines the persistent storage that is required by the consensus

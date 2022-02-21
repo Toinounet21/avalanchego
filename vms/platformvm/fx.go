@@ -4,8 +4,8 @@
 package platformvm
 
 import (
-	"github.com/Toinounet21/crabalanchego/snow"
-	"github.com/Toinounet21/crabalanchego/vms/components/verify"
+	"github.com/Toinounet21/swapalanchego/snow"
+	"github.com/Toinounet21/swapalanchego/vms/components/verify"
 )
 
 // Fx is the interface a feature extension must implement to support the

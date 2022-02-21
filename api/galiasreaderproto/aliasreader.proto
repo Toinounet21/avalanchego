@@ -1,6 +1,6 @@
 syntax = "proto3";
 package galiasreaderproto;
-option go_package = "github.com/Toinounet21/crabalanchego/api/galiasreaderproto";
+option go_package = "github.com/Toinounet21/swapalanchego/api/galiasreaderproto";
 
 message ID {
     bytes id = 1;

@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/utils/sampler"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/utils/sampler"
 )
 
 const (

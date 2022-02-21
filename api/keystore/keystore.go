@@ -11,16 +11,16 @@ import (
 
 	"github.com/gorilla/rpc/v2"
 
-	"github.com/Toinounet21/crabalanchego/chains/atomic"
-	"github.com/Toinounet21/crabalanchego/database"
-	"github.com/Toinounet21/crabalanchego/database/encdb"
-	"github.com/Toinounet21/crabalanchego/database/manager"
-	"github.com/Toinounet21/crabalanchego/database/prefixdb"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/utils/logging"
-	"github.com/Toinounet21/crabalanchego/utils/password"
+	"github.com/Toinounet21/swapalanchego/chains/atomic"
+	"github.com/Toinounet21/swapalanchego/database"
+	"github.com/Toinounet21/swapalanchego/database/encdb"
+	"github.com/Toinounet21/swapalanchego/database/manager"
+	"github.com/Toinounet21/swapalanchego/database/prefixdb"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/utils/logging"
+	"github.com/Toinounet21/swapalanchego/utils/password"
 
-	jsoncodec "github.com/Toinounet21/crabalanchego/utils/json"
+	jsoncodec "github.com/Toinounet21/swapalanchego/utils/json"
 )
 
 const (

@@ -8,8 +8,8 @@ import (
 
 	"google.golang.org/protobuf/types/known/emptypb"
 
-	"github.com/Toinounet21/crabalanchego/api/proto/pluginproto"
-	"github.com/Toinounet21/crabalanchego/app"
+	"github.com/Toinounet21/swapalanchego/api/proto/pluginproto"
+	"github.com/Toinounet21/swapalanchego/app"
 )
 
 // Server wraps a node so it can be served with the hashicorp plugin harness

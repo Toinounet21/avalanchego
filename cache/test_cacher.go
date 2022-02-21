@@ -6,7 +6,7 @@ package cache
 import (
 	"testing"
 
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 // CacherTests is a list of all Cacher tests

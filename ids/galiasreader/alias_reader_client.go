@@ -6,8 +6,8 @@ package galiasreader
 import (
 	"context"
 
-	"github.com/Toinounet21/crabalanchego/api/proto/galiasreaderproto"
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/api/proto/galiasreaderproto"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 var _ ids.AliaserReader = &Client{}

@@ -9,8 +9,8 @@ package rocksdb
 import (
 	"errors"
 
-	"github.com/Toinounet21/crabalanchego/database"
-	"github.com/Toinounet21/crabalanchego/utils/logging"
+	"github.com/Toinounet21/swapalanchego/database"
+	"github.com/Toinounet21/swapalanchego/utils/logging"
 )
 
 var errUnsupportedDatabase = errors.New("database isn't suppported")

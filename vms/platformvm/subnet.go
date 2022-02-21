@@ -4,8 +4,8 @@
 package platformvm
 
 import (
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow/validators"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow/validators"
 )
 
 // A Subnet is a set of validators that are validating a set of blockchains

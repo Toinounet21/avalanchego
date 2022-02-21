@@ -1,5 +1,5 @@
 version: v1
-name: buf.build/Toinounet21/crabalanchego
+name: buf.build/Toinounet21/swapalanchego
 breaking:
   use:
     - FILE

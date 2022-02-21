@@ -8,9 +8,9 @@ import (
 
 	"github.com/prometheus/client_golang/prometheus"
 
-	"github.com/Toinounet21/crabalanchego/message"
-	"github.com/Toinounet21/crabalanchego/utils/metric"
-	"github.com/Toinounet21/crabalanchego/utils/wrappers"
+	"github.com/Toinounet21/swapalanchego/message"
+	"github.com/Toinounet21/swapalanchego/utils/metric"
+	"github.com/Toinounet21/swapalanchego/utils/wrappers"
 )
 
 type messageMetrics struct {

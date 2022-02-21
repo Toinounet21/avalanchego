@@ -12,10 +12,10 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/utils"
-	"github.com/Toinounet21/crabalanchego/utils/units"
-	"github.com/Toinounet21/crabalanchego/version"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/utils"
+	"github.com/Toinounet21/swapalanchego/utils/units"
+	"github.com/Toinounet21/swapalanchego/version"
 )
 
 var (

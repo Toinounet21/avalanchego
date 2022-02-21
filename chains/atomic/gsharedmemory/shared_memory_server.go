@@ -7,10 +7,10 @@ import (
 	"context"
 	"sync"
 
-	"github.com/Toinounet21/crabalanchego/api/proto/gsharedmemoryproto"
-	"github.com/Toinounet21/crabalanchego/chains/atomic"
-	"github.com/Toinounet21/crabalanchego/database"
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/api/proto/gsharedmemoryproto"
+	"github.com/Toinounet21/swapalanchego/chains/atomic"
+	"github.com/Toinounet21/swapalanchego/database"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 var _ gsharedmemoryproto.SharedMemoryServer = &Server{}

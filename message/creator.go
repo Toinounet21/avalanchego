@@ -6,7 +6,7 @@ package message
 import (
 	"fmt"
 
-	"github.com/Toinounet21/crabalanchego/utils/constants"
+	"github.com/Toinounet21/swapalanchego/utils/constants"
 	"github.com/prometheus/client_golang/prometheus"
 )
 

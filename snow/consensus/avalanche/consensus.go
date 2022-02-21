@@ -4,9 +4,9 @@
 package avalanche
 
 import (
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow"
-	"github.com/Toinounet21/crabalanchego/snow/consensus/snowstorm"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow"
+	"github.com/Toinounet21/swapalanchego/snow/consensus/snowstorm"
 )
 
 // TODO: Implement pruning of accepted decisions.

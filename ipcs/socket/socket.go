@@ -14,8 +14,8 @@ import (
 	"sync/atomic"
 	"syscall"
 
-	"github.com/Toinounet21/crabalanchego/utils/logging"
-	"github.com/Toinounet21/crabalanchego/utils/wrappers"
+	"github.com/Toinounet21/swapalanchego/utils/logging"
+	"github.com/Toinounet21/swapalanchego/utils/wrappers"
 )
 
 // ErrMessageTooLarge is returned when reading a message that is larger than

@@ -6,7 +6,7 @@ package choices
 import (
 	"errors"
 
-	"github.com/Toinounet21/crabalanchego/utils/wrappers"
+	"github.com/Toinounet21/swapalanchego/utils/wrappers"
 )
 
 var errUnknownStatus = errors.New("unknown status")

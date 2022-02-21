@@ -4,9 +4,9 @@
 package secp256k1fx
 
 import (
-	"github.com/Toinounet21/crabalanchego/codec"
-	"github.com/Toinounet21/crabalanchego/utils/logging"
-	"github.com/Toinounet21/crabalanchego/utils/timer/mockable"
+	"github.com/Toinounet21/swapalanchego/codec"
+	"github.com/Toinounet21/swapalanchego/utils/logging"
+	"github.com/Toinounet21/swapalanchego/utils/timer/mockable"
 )
 
 // VM that this Fx must be run by

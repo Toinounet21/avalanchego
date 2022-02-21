@@ -4,10 +4,10 @@
 package state
 
 import (
-	"github.com/Toinounet21/crabalanchego/cache"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow/choices"
-	"github.com/Toinounet21/crabalanchego/snow/engine/avalanche/vertex"
+	"github.com/Toinounet21/swapalanchego/cache"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow/choices"
+	"github.com/Toinounet21/swapalanchego/snow/engine/avalanche/vertex"
 )
 
 const (

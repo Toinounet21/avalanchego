@@ -7,7 +7,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/utils/units"
+	"github.com/Toinounet21/swapalanchego/utils/units"
 )
 
 // Const variables to be exported

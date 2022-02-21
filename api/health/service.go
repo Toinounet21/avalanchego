@@ -7,7 +7,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/Toinounet21/crabalanchego/utils/logging"
+	"github.com/Toinounet21/swapalanchego/utils/logging"
 )
 
 type Service struct {

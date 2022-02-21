@@ -8,12 +8,12 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Toinounet21/crabalanchego/codec"
-	"github.com/Toinounet21/crabalanchego/codec/linearcodec"
-	"github.com/Toinounet21/crabalanchego/database/memdb"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/utils/wrappers"
-	"github.com/Toinounet21/crabalanchego/vms/secp256k1fx"
+	"github.com/Toinounet21/swapalanchego/codec"
+	"github.com/Toinounet21/swapalanchego/codec/linearcodec"
+	"github.com/Toinounet21/swapalanchego/database/memdb"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/utils/wrappers"
+	"github.com/Toinounet21/swapalanchego/vms/secp256k1fx"
 )
 
 func TestFetchUTXOs(t *testing.T) {

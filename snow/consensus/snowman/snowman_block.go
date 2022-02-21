@@ -4,9 +4,9 @@
 package snowman
 
 import (
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow/choices"
-	"github.com/Toinounet21/crabalanchego/snow/consensus/snowball"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow/choices"
+	"github.com/Toinounet21/swapalanchego/snow/consensus/snowball"
 )
 
 // Tracks the state of a snowman block

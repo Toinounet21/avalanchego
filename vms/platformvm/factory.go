@@ -6,12 +6,12 @@ package platformvm
 import (
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/chains"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow"
-	"github.com/Toinounet21/crabalanchego/snow/uptime"
-	"github.com/Toinounet21/crabalanchego/snow/validators"
-	"github.com/Toinounet21/crabalanchego/vms/platformvm/reward"
+	"github.com/Toinounet21/swapalanchego/chains"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow"
+	"github.com/Toinounet21/swapalanchego/snow/uptime"
+	"github.com/Toinounet21/swapalanchego/snow/validators"
+	"github.com/Toinounet21/swapalanchego/vms/platformvm/reward"
 )
 
 // Factory can create new instances of the Platform Chain

@@ -7,11 +7,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/codec/linearcodec"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/utils/crypto"
-	"github.com/Toinounet21/crabalanchego/utils/formatting"
-	"github.com/Toinounet21/crabalanchego/utils/logging"
+	"github.com/Toinounet21/swapalanchego/codec/linearcodec"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/utils/crypto"
+	"github.com/Toinounet21/swapalanchego/utils/formatting"
+	"github.com/Toinounet21/swapalanchego/utils/logging"
 )
 
 var (

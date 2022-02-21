@@ -7,10 +7,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/utils/constants"
-	"github.com/Toinounet21/crabalanchego/utils/crypto"
-	"github.com/Toinounet21/crabalanchego/vms/platformvm/message"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/utils/constants"
+	"github.com/Toinounet21/swapalanchego/utils/crypto"
+	"github.com/Toinounet21/swapalanchego/vms/platformvm/message"
 	"github.com/stretchr/testify/assert"
 )
 

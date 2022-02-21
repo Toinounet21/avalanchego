@@ -6,9 +6,9 @@ package throttling
 import (
 	"sync"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow/validators"
-	"github.com/Toinounet21/crabalanchego/utils/logging"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow/validators"
+	"github.com/Toinounet21/swapalanchego/utils/logging"
 )
 
 // Used by the sybil-safe inbound and outbound message throttlers

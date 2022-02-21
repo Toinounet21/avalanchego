@@ -8,12 +8,12 @@ import (
 
 	"github.com/prometheus/client_golang/prometheus"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/message"
-	"github.com/Toinounet21/crabalanchego/snow/networking/tracker"
-	"github.com/Toinounet21/crabalanchego/snow/validators"
-	"github.com/Toinounet21/crabalanchego/utils/logging"
-	"github.com/Toinounet21/crabalanchego/utils/timer/mockable"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/message"
+	"github.com/Toinounet21/swapalanchego/snow/networking/tracker"
+	"github.com/Toinounet21/swapalanchego/snow/validators"
+	"github.com/Toinounet21/swapalanchego/utils/logging"
+	"github.com/Toinounet21/swapalanchego/utils/timer/mockable"
 )
 
 var _ MessageQueue = &messageQueue{}

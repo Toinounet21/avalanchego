@@ -6,8 +6,8 @@ package manager
 import (
 	"sort"
 
-	"github.com/Toinounet21/crabalanchego/database"
-	"github.com/Toinounet21/crabalanchego/version"
+	"github.com/Toinounet21/swapalanchego/database"
+	"github.com/Toinounet21/swapalanchego/version"
 )
 
 type VersionedDatabase struct {

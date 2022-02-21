@@ -6,9 +6,9 @@ package proposervm
 import (
 	"fmt"
 
-	"github.com/Toinounet21/crabalanchego/database"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow/engine/snowman/block"
+	"github.com/Toinounet21/swapalanchego/database"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow/engine/snowman/block"
 )
 
 // shouldHeightIndexBeRepaired checks if index needs repairing and stores a

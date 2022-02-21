@@ -15,9 +15,9 @@ import (
 	"github.com/syndtr/goleveldb/leveldb/opt"
 	"github.com/syndtr/goleveldb/leveldb/util"
 
-	"github.com/Toinounet21/crabalanchego/database"
-	"github.com/Toinounet21/crabalanchego/utils"
-	"github.com/Toinounet21/crabalanchego/utils/logging"
+	"github.com/Toinounet21/swapalanchego/database"
+	"github.com/Toinounet21/swapalanchego/utils"
+	"github.com/Toinounet21/swapalanchego/utils/logging"
 )
 
 const (

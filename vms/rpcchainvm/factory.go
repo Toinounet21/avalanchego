@@ -15,11 +15,11 @@ import (
 	"github.com/hashicorp/go-hclog"
 	"github.com/hashicorp/go-plugin"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow"
-	"github.com/Toinounet21/crabalanchego/utils/math"
-	"github.com/Toinounet21/crabalanchego/utils/subprocess"
-	"github.com/Toinounet21/crabalanchego/vms"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow"
+	"github.com/Toinounet21/swapalanchego/utils/math"
+	"github.com/Toinounet21/swapalanchego/utils/subprocess"
+	"github.com/Toinounet21/swapalanchego/vms"
 )
 
 var (

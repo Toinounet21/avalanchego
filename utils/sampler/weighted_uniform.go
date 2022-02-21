@@ -7,7 +7,7 @@ import (
 	"errors"
 	"math"
 
-	safemath "github.com/Toinounet21/crabalanchego/utils/math"
+	safemath "github.com/Toinounet21/swapalanchego/utils/math"
 )
 
 var errWeightsTooLarge = errors.New("total weight is too large")

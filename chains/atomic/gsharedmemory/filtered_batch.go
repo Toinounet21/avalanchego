@@ -4,7 +4,7 @@
 package gsharedmemory
 
 import (
-	"github.com/Toinounet21/crabalanchego/api/proto/gsharedmemoryproto"
+	"github.com/Toinounet21/swapalanchego/api/proto/gsharedmemoryproto"
 )
 
 type filteredBatch struct {

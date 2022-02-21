@@ -1,6 +1,6 @@
 syntax = "proto3";
 package rpcdbproto;
-option go_package = "github.com/Toinounet21/crabalanchego/api/proto/rpcdbproto";
+option go_package = "github.com/Toinounet21/swapalanchego/api/proto/rpcdbproto";
 
 message HasRequest {
     bytes key = 1;

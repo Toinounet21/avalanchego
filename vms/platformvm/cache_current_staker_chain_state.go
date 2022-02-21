@@ -10,12 +10,12 @@ import (
 	"sort"
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/database"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow/validators"
-	"github.com/Toinounet21/crabalanchego/utils/constants"
+	"github.com/Toinounet21/swapalanchego/database"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow/validators"
+	"github.com/Toinounet21/swapalanchego/utils/constants"
 
-	safemath "github.com/Toinounet21/crabalanchego/utils/math"
+	safemath "github.com/Toinounet21/swapalanchego/utils/math"
 )
 
 var (

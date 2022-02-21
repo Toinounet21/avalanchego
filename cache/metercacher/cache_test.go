@@ -8,7 +8,7 @@ import (
 
 	"github.com/prometheus/client_golang/prometheus"
 
-	"github.com/Toinounet21/crabalanchego/cache"
+	"github.com/Toinounet21/swapalanchego/cache"
 )
 
 func TestInterface(t *testing.T) {

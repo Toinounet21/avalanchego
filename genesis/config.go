@@ -11,12 +11,12 @@ import (
 	"io/ioutil"
 	"path/filepath"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/utils/constants"
-	"github.com/Toinounet21/crabalanchego/utils/formatting"
-	"github.com/Toinounet21/crabalanchego/utils/wrappers"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/utils/constants"
+	"github.com/Toinounet21/swapalanchego/utils/formatting"
+	"github.com/Toinounet21/swapalanchego/utils/wrappers"
 
-	safemath "github.com/Toinounet21/crabalanchego/utils/math"
+	safemath "github.com/Toinounet21/swapalanchego/utils/math"
 )
 
 type LockedAmount struct {

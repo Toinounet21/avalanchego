@@ -4,7 +4,7 @@
 package chains
 
 import (
-	"github.com/Toinounet21/crabalanchego/snow/engine/common"
+	"github.com/Toinounet21/swapalanchego/snow/engine/common"
 )
 
 // Registrant can register the existence of a chain

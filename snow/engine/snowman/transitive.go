@@ -7,16 +7,16 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow"
-	"github.com/Toinounet21/crabalanchego/snow/choices"
-	"github.com/Toinounet21/crabalanchego/snow/consensus/snowman"
-	"github.com/Toinounet21/crabalanchego/snow/consensus/snowman/poll"
-	"github.com/Toinounet21/crabalanchego/snow/engine/common"
-	"github.com/Toinounet21/crabalanchego/snow/events"
-	"github.com/Toinounet21/crabalanchego/utils/formatting"
-	"github.com/Toinounet21/crabalanchego/utils/wrappers"
-	"github.com/Toinounet21/crabalanchego/version"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow"
+	"github.com/Toinounet21/swapalanchego/snow/choices"
+	"github.com/Toinounet21/swapalanchego/snow/consensus/snowman"
+	"github.com/Toinounet21/swapalanchego/snow/consensus/snowman/poll"
+	"github.com/Toinounet21/swapalanchego/snow/engine/common"
+	"github.com/Toinounet21/swapalanchego/snow/events"
+	"github.com/Toinounet21/swapalanchego/utils/formatting"
+	"github.com/Toinounet21/swapalanchego/utils/wrappers"
+	"github.com/Toinounet21/swapalanchego/version"
 )
 
 var _ Engine = &Transitive{}

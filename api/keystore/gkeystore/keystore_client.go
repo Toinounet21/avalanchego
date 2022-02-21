@@ -8,12 +8,12 @@ import (
 
 	"github.com/hashicorp/go-plugin"
 
-	"github.com/Toinounet21/crabalanchego/api/keystore"
-	"github.com/Toinounet21/crabalanchego/api/proto/gkeystoreproto"
-	"github.com/Toinounet21/crabalanchego/api/proto/rpcdbproto"
-	"github.com/Toinounet21/crabalanchego/database"
-	"github.com/Toinounet21/crabalanchego/database/encdb"
-	"github.com/Toinounet21/crabalanchego/database/rpcdb"
+	"github.com/Toinounet21/swapalanchego/api/keystore"
+	"github.com/Toinounet21/swapalanchego/api/proto/gkeystoreproto"
+	"github.com/Toinounet21/swapalanchego/api/proto/rpcdbproto"
+	"github.com/Toinounet21/swapalanchego/database"
+	"github.com/Toinounet21/swapalanchego/database/encdb"
+	"github.com/Toinounet21/swapalanchego/database/rpcdb"
 )
 
 var _ keystore.BlockchainKeystore = &Client{}

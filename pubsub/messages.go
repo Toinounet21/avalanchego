@@ -4,9 +4,9 @@
 package pubsub
 
 import (
-	"github.com/Toinounet21/crabalanchego/api"
-	"github.com/Toinounet21/crabalanchego/utils/formatting"
-	"github.com/Toinounet21/crabalanchego/utils/json"
+	"github.com/Toinounet21/swapalanchego/api"
+	"github.com/Toinounet21/swapalanchego/utils/formatting"
+	"github.com/Toinounet21/swapalanchego/utils/json"
 )
 
 // NewBloom command for a new bloom filter

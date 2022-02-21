@@ -9,11 +9,11 @@ import (
 	"net"
 	"testing"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/message"
-	"github.com/Toinounet21/crabalanchego/snow/validators"
-	"github.com/Toinounet21/crabalanchego/utils"
-	"github.com/Toinounet21/crabalanchego/utils/hashing"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/message"
+	"github.com/Toinounet21/swapalanchego/snow/validators"
+	"github.com/Toinounet21/swapalanchego/utils"
+	"github.com/Toinounet21/swapalanchego/utils/hashing"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/stretchr/testify/assert"
 )

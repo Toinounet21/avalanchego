@@ -6,8 +6,8 @@ package common
 import (
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/snow"
-	"github.com/Toinounet21/crabalanchego/snow/validators"
+	"github.com/Toinounet21/swapalanchego/snow"
+	"github.com/Toinounet21/swapalanchego/snow/validators"
 )
 
 // Config wraps the common configurations that are needed by a Snow consensus

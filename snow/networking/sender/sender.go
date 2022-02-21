@@ -6,13 +6,13 @@ package sender
 import (
 	"fmt"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/message"
-	"github.com/Toinounet21/crabalanchego/snow"
-	"github.com/Toinounet21/crabalanchego/snow/networking/router"
-	"github.com/Toinounet21/crabalanchego/snow/networking/timeout"
-	"github.com/Toinounet21/crabalanchego/utils/constants"
-	"github.com/Toinounet21/crabalanchego/utils/formatting"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/message"
+	"github.com/Toinounet21/swapalanchego/snow"
+	"github.com/Toinounet21/swapalanchego/snow/networking/router"
+	"github.com/Toinounet21/swapalanchego/snow/networking/timeout"
+	"github.com/Toinounet21/swapalanchego/utils/constants"
+	"github.com/Toinounet21/swapalanchego/utils/formatting"
 	"github.com/prometheus/client_golang/prometheus"
 )
 

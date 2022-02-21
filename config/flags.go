@@ -13,13 +13,13 @@ import (
 
 	"github.com/kardianos/osext"
 
-	"github.com/Toinounet21/crabalanchego/database/leveldb"
-	"github.com/Toinounet21/crabalanchego/database/memdb"
-	"github.com/Toinounet21/crabalanchego/database/rocksdb"
-	"github.com/Toinounet21/crabalanchego/genesis"
-	"github.com/Toinounet21/crabalanchego/utils/constants"
-	"github.com/Toinounet21/crabalanchego/utils/ulimit"
-	"github.com/Toinounet21/crabalanchego/utils/units"
+	"github.com/Toinounet21/swapalanchego/database/leveldb"
+	"github.com/Toinounet21/swapalanchego/database/memdb"
+	"github.com/Toinounet21/swapalanchego/database/rocksdb"
+	"github.com/Toinounet21/swapalanchego/genesis"
+	"github.com/Toinounet21/swapalanchego/utils/constants"
+	"github.com/Toinounet21/swapalanchego/utils/ulimit"
+	"github.com/Toinounet21/swapalanchego/utils/units"
 )
 
 // Results of parsing the CLI

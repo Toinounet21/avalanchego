@@ -4,8 +4,8 @@
 package snowman
 
 import (
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow/consensus/snowman"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow/consensus/snowman"
 )
 
 // issuer issues [blk] into to consensus after its dependencies are met.

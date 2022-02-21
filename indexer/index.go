@@ -9,16 +9,16 @@ import (
 	"io"
 	"sync"
 
-	"github.com/Toinounet21/crabalanchego/codec"
-	"github.com/Toinounet21/crabalanchego/database"
-	"github.com/Toinounet21/crabalanchego/database/prefixdb"
-	"github.com/Toinounet21/crabalanchego/database/versiondb"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow"
-	"github.com/Toinounet21/crabalanchego/utils/logging"
-	"github.com/Toinounet21/crabalanchego/utils/math"
-	"github.com/Toinounet21/crabalanchego/utils/timer/mockable"
-	"github.com/Toinounet21/crabalanchego/utils/wrappers"
+	"github.com/Toinounet21/swapalanchego/codec"
+	"github.com/Toinounet21/swapalanchego/database"
+	"github.com/Toinounet21/swapalanchego/database/prefixdb"
+	"github.com/Toinounet21/swapalanchego/database/versiondb"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow"
+	"github.com/Toinounet21/swapalanchego/utils/logging"
+	"github.com/Toinounet21/swapalanchego/utils/math"
+	"github.com/Toinounet21/swapalanchego/utils/timer/mockable"
+	"github.com/Toinounet21/swapalanchego/utils/wrappers"
 )
 
 const (

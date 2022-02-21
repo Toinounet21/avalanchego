@@ -12,9 +12,9 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/test/bufconn"
 
-	"github.com/Toinounet21/crabalanchego/api/proto/rpcdbproto"
-	"github.com/Toinounet21/crabalanchego/database"
-	"github.com/Toinounet21/crabalanchego/database/memdb"
+	"github.com/Toinounet21/swapalanchego/api/proto/rpcdbproto"
+	"github.com/Toinounet21/swapalanchego/database"
+	"github.com/Toinounet21/swapalanchego/database/memdb"
 )
 
 const (

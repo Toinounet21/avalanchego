@@ -14,10 +14,10 @@ import (
 
 	secp256k1 "github.com/decred/dcrd/dcrec/secp256k1/v3"
 
-	"github.com/Toinounet21/crabalanchego/cache"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/utils"
-	"github.com/Toinounet21/crabalanchego/utils/hashing"
+	"github.com/Toinounet21/swapalanchego/cache"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/utils"
+	"github.com/Toinounet21/swapalanchego/utils/hashing"
 )
 
 const (

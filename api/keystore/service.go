@@ -7,12 +7,12 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/Toinounet21/crabalanchego/api"
-	"github.com/Toinounet21/crabalanchego/database/manager"
-	"github.com/Toinounet21/crabalanchego/database/memdb"
-	"github.com/Toinounet21/crabalanchego/utils/formatting"
-	"github.com/Toinounet21/crabalanchego/utils/logging"
-	"github.com/Toinounet21/crabalanchego/version"
+	"github.com/Toinounet21/swapalanchego/api"
+	"github.com/Toinounet21/swapalanchego/database/manager"
+	"github.com/Toinounet21/swapalanchego/database/memdb"
+	"github.com/Toinounet21/swapalanchego/utils/formatting"
+	"github.com/Toinounet21/swapalanchego/utils/logging"
+	"github.com/Toinounet21/swapalanchego/version"
 )
 
 type service struct {

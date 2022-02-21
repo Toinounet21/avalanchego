@@ -18,11 +18,11 @@ import (
 
 	"github.com/gorilla/rpc/v2"
 
-	"github.com/Toinounet21/crabalanchego/utils/logging"
-	"github.com/Toinounet21/crabalanchego/utils/password"
-	"github.com/Toinounet21/crabalanchego/utils/timer/mockable"
+	"github.com/Toinounet21/swapalanchego/utils/logging"
+	"github.com/Toinounet21/swapalanchego/utils/password"
+	"github.com/Toinounet21/swapalanchego/utils/timer/mockable"
 
-	cjson "github.com/Toinounet21/crabalanchego/utils/json"
+	cjson "github.com/Toinounet21/swapalanchego/utils/json"
 )
 
 const (

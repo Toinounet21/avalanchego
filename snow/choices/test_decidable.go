@@ -6,7 +6,7 @@ package choices
 import (
 	"fmt"
 
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 // TestDecidable is a test Decidable

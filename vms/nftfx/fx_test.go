@@ -7,12 +7,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/codec/linearcodec"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/utils/crypto"
-	"github.com/Toinounet21/crabalanchego/utils/hashing"
-	"github.com/Toinounet21/crabalanchego/utils/logging"
-	"github.com/Toinounet21/crabalanchego/vms/secp256k1fx"
+	"github.com/Toinounet21/swapalanchego/codec/linearcodec"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/utils/crypto"
+	"github.com/Toinounet21/swapalanchego/utils/hashing"
+	"github.com/Toinounet21/swapalanchego/utils/logging"
+	"github.com/Toinounet21/swapalanchego/vms/secp256k1fx"
 )
 
 var (

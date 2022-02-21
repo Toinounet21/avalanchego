@@ -10,9 +10,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/Toinounet21/crabalanchego/api"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/utils/formatting"
+	"github.com/Toinounet21/swapalanchego/api"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/utils/formatting"
 )
 
 // strongPassword defines a password used for the following tests that

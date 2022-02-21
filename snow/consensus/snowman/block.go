@@ -6,8 +6,8 @@ package snowman
 import (
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow/choices"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow/choices"
 )
 
 // Block is a possible decision that dictates the next canonical block.

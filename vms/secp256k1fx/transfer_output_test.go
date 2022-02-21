@@ -7,10 +7,10 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/Toinounet21/crabalanchego/codec"
-	"github.com/Toinounet21/crabalanchego/codec/linearcodec"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/vms/components/verify"
+	"github.com/Toinounet21/swapalanchego/codec"
+	"github.com/Toinounet21/swapalanchego/codec/linearcodec"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/vms/components/verify"
 )
 
 func TestOutputAmount(t *testing.T) {

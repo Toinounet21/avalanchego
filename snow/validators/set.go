@@ -8,11 +8,11 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/utils/formatting"
-	"github.com/Toinounet21/crabalanchego/utils/sampler"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/utils/formatting"
+	"github.com/Toinounet21/swapalanchego/utils/sampler"
 
-	safemath "github.com/Toinounet21/crabalanchego/utils/math"
+	safemath "github.com/Toinounet21/swapalanchego/utils/math"
 )
 
 const (

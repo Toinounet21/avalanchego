@@ -12,18 +12,18 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Toinounet21/crabalanchego/database/manager"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow"
-	"github.com/Toinounet21/crabalanchego/snow/choices"
-	"github.com/Toinounet21/crabalanchego/snow/consensus/snowman"
-	"github.com/Toinounet21/crabalanchego/snow/engine/common"
-	"github.com/Toinounet21/crabalanchego/snow/engine/snowman/block"
-	"github.com/Toinounet21/crabalanchego/snow/validators"
-	"github.com/Toinounet21/crabalanchego/utils/hashing"
-	"github.com/Toinounet21/crabalanchego/utils/timer/mockable"
-	"github.com/Toinounet21/crabalanchego/version"
-	"github.com/Toinounet21/crabalanchego/vms/proposervm/proposer"
+	"github.com/Toinounet21/swapalanchego/database/manager"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow"
+	"github.com/Toinounet21/swapalanchego/snow/choices"
+	"github.com/Toinounet21/swapalanchego/snow/consensus/snowman"
+	"github.com/Toinounet21/swapalanchego/snow/engine/common"
+	"github.com/Toinounet21/swapalanchego/snow/engine/snowman/block"
+	"github.com/Toinounet21/swapalanchego/snow/validators"
+	"github.com/Toinounet21/swapalanchego/utils/hashing"
+	"github.com/Toinounet21/swapalanchego/utils/timer/mockable"
+	"github.com/Toinounet21/swapalanchego/version"
+	"github.com/Toinounet21/swapalanchego/vms/proposervm/proposer"
 )
 
 func TestCoreVMNotRemote(t *testing.T) {

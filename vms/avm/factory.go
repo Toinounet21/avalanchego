@@ -4,7 +4,7 @@
 package avm
 
 import (
-	"github.com/Toinounet21/crabalanchego/snow"
+	"github.com/Toinounet21/swapalanchego/snow"
 )
 
 type Factory struct {

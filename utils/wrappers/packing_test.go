@@ -10,9 +10,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/Toinounet21/crabalanchego/staking"
+	"github.com/Toinounet21/swapalanchego/staking"
 
-	"github.com/Toinounet21/crabalanchego/utils"
+	"github.com/Toinounet21/swapalanchego/utils"
 
 	"github.com/stretchr/testify/assert"
 )

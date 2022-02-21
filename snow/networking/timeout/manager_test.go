@@ -8,10 +8,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/message"
-	"github.com/Toinounet21/crabalanchego/snow/networking/benchlist"
-	"github.com/Toinounet21/crabalanchego/utils/timer"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/message"
+	"github.com/Toinounet21/swapalanchego/snow/networking/benchlist"
+	"github.com/Toinounet21/swapalanchego/utils/timer"
 	"github.com/prometheus/client_golang/prometheus"
 )
 

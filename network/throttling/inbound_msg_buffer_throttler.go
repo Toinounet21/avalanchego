@@ -7,9 +7,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/utils/metric"
-	"github.com/Toinounet21/crabalanchego/utils/wrappers"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/utils/metric"
+	"github.com/Toinounet21/swapalanchego/utils/wrappers"
 	"github.com/prometheus/client_golang/prometheus"
 )
 

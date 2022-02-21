@@ -4,11 +4,11 @@
 package message
 
 import (
-	"github.com/Toinounet21/crabalanchego/codec"
-	"github.com/Toinounet21/crabalanchego/codec/linearcodec"
-	"github.com/Toinounet21/crabalanchego/codec/reflectcodec"
-	"github.com/Toinounet21/crabalanchego/utils/units"
-	"github.com/Toinounet21/crabalanchego/utils/wrappers"
+	"github.com/Toinounet21/swapalanchego/codec"
+	"github.com/Toinounet21/swapalanchego/codec/linearcodec"
+	"github.com/Toinounet21/swapalanchego/codec/reflectcodec"
+	"github.com/Toinounet21/swapalanchego/utils/units"
+	"github.com/Toinounet21/swapalanchego/utils/wrappers"
 )
 
 const (

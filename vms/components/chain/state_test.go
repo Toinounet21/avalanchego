@@ -9,11 +9,11 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/Toinounet21/crabalanchego/database"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow/choices"
-	"github.com/Toinounet21/crabalanchego/snow/consensus/snowman"
-	"github.com/Toinounet21/crabalanchego/utils/hashing"
+	"github.com/Toinounet21/swapalanchego/database"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow/choices"
+	"github.com/Toinounet21/swapalanchego/snow/consensus/snowman"
+	"github.com/Toinounet21/swapalanchego/utils/hashing"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/stretchr/testify/assert"
 )

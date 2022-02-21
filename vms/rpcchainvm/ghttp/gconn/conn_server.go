@@ -8,8 +8,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/api/proto/gconnproto"
-	"github.com/Toinounet21/crabalanchego/vms/rpcchainvm/grpcutils"
+	"github.com/Toinounet21/swapalanchego/api/proto/gconnproto"
+	"github.com/Toinounet21/swapalanchego/vms/rpcchainvm/grpcutils"
 )
 
 var _ gconnproto.ConnServer = &Server{}

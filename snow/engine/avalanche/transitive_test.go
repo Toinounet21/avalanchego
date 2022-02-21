@@ -12,21 +12,21 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow/choices"
-	"github.com/Toinounet21/crabalanchego/snow/consensus/avalanche"
-	"github.com/Toinounet21/crabalanchego/snow/consensus/snowball"
-	"github.com/Toinounet21/crabalanchego/snow/consensus/snowstorm"
-	"github.com/Toinounet21/crabalanchego/snow/engine/avalanche/bootstrap"
-	"github.com/Toinounet21/crabalanchego/snow/engine/avalanche/vertex"
-	"github.com/Toinounet21/crabalanchego/snow/engine/common"
-	"github.com/Toinounet21/crabalanchego/snow/engine/common/tracker"
-	"github.com/Toinounet21/crabalanchego/snow/validators"
-	"github.com/Toinounet21/crabalanchego/utils"
-	"github.com/Toinounet21/crabalanchego/utils/wrappers"
-	"github.com/Toinounet21/crabalanchego/version"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow/choices"
+	"github.com/Toinounet21/swapalanchego/snow/consensus/avalanche"
+	"github.com/Toinounet21/swapalanchego/snow/consensus/snowball"
+	"github.com/Toinounet21/swapalanchego/snow/consensus/snowstorm"
+	"github.com/Toinounet21/swapalanchego/snow/engine/avalanche/bootstrap"
+	"github.com/Toinounet21/swapalanchego/snow/engine/avalanche/vertex"
+	"github.com/Toinounet21/swapalanchego/snow/engine/common"
+	"github.com/Toinounet21/swapalanchego/snow/engine/common/tracker"
+	"github.com/Toinounet21/swapalanchego/snow/validators"
+	"github.com/Toinounet21/swapalanchego/utils"
+	"github.com/Toinounet21/swapalanchego/utils/wrappers"
+	"github.com/Toinounet21/swapalanchego/version"
 
-	avagetter "github.com/Toinounet21/crabalanchego/snow/engine/avalanche/getter"
+	avagetter "github.com/Toinounet21/swapalanchego/snow/engine/avalanche/getter"
 )
 
 var (

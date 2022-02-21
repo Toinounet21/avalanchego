@@ -6,7 +6,7 @@ package snowball
 import (
 	"fmt"
 
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 // nnarySnowflake is the implementation of a snowflake instance with an

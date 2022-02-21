@@ -6,7 +6,7 @@ package snowball
 import (
 	"fmt"
 
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 // nnarySlush is the implementation of a slush instance with an unbounded number

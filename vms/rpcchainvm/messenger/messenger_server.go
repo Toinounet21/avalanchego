@@ -7,8 +7,8 @@ import (
 	"context"
 	"errors"
 
-	"github.com/Toinounet21/crabalanchego/api/proto/messengerproto"
-	"github.com/Toinounet21/crabalanchego/snow/engine/common"
+	"github.com/Toinounet21/swapalanchego/api/proto/messengerproto"
+	"github.com/Toinounet21/swapalanchego/snow/engine/common"
 )
 
 var (

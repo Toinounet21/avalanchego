@@ -7,10 +7,10 @@ import (
 	"container/list"
 	"testing"
 
-	"github.com/Toinounet21/crabalanchego/api"
-	"github.com/Toinounet21/crabalanchego/chains/atomic"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/vms/components/keystore"
+	"github.com/Toinounet21/swapalanchego/api"
+	"github.com/Toinounet21/swapalanchego/chains/atomic"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/vms/components/keystore"
 )
 
 // Returns:

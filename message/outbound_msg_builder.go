@@ -6,8 +6,8 @@ package message
 import (
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/utils"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/utils"
 )
 
 var _ OutboundMsgBuilder = &outMsgBuilder{}

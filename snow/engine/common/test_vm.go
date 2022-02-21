@@ -8,11 +8,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/version"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/version"
 
-	"github.com/Toinounet21/crabalanchego/database/manager"
-	"github.com/Toinounet21/crabalanchego/snow"
+	"github.com/Toinounet21/swapalanchego/database/manager"
+	"github.com/Toinounet21/swapalanchego/snow"
 )
 
 var (

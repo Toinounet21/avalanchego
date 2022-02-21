@@ -10,10 +10,10 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/Toinounet21/crabalanchego/utils"
-	"github.com/Toinounet21/crabalanchego/utils/formatting"
-	"github.com/Toinounet21/crabalanchego/utils/hashing"
-	"github.com/Toinounet21/crabalanchego/utils/wrappers"
+	"github.com/Toinounet21/swapalanchego/utils"
+	"github.com/Toinounet21/swapalanchego/utils/formatting"
+	"github.com/Toinounet21/swapalanchego/utils/hashing"
+	"github.com/Toinounet21/swapalanchego/utils/wrappers"
 )
 
 const (

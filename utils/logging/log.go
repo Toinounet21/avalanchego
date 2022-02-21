@@ -14,7 +14,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/utils/perms"
+	"github.com/Toinounet21/swapalanchego/utils/perms"
 )
 
 var (

@@ -7,8 +7,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/utils/constants"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/utils/constants"
 )
 
 var errBadSubnetID = errors.New("subnet ID can't be primary network ID")

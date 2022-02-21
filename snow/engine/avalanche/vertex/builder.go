@@ -4,10 +4,10 @@
 package vertex
 
 import (
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow/consensus/avalanche"
-	"github.com/Toinounet21/crabalanchego/snow/consensus/snowstorm"
-	"github.com/Toinounet21/crabalanchego/utils/hashing"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow/consensus/avalanche"
+	"github.com/Toinounet21/swapalanchego/snow/consensus/snowstorm"
+	"github.com/Toinounet21/swapalanchego/utils/hashing"
 )
 
 // Builder builds a vertex given a set of parentIDs and transactions.

@@ -8,13 +8,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/utils/linkedhashmap"
+	"github.com/Toinounet21/swapalanchego/utils/linkedhashmap"
 
 	"github.com/prometheus/client_golang/prometheus"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/utils/logging"
-	"github.com/Toinounet21/crabalanchego/utils/metric"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/utils/logging"
+	"github.com/Toinounet21/swapalanchego/utils/metric"
 )
 
 type pollHolder interface {

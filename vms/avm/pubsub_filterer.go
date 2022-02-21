@@ -4,9 +4,9 @@
 package avm
 
 import (
-	"github.com/Toinounet21/crabalanchego/api"
-	"github.com/Toinounet21/crabalanchego/pubsub"
-	"github.com/Toinounet21/crabalanchego/vms/components/avax"
+	"github.com/Toinounet21/swapalanchego/api"
+	"github.com/Toinounet21/swapalanchego/pubsub"
+	"github.com/Toinounet21/swapalanchego/vms/components/avax"
 )
 
 var _ pubsub.Filterer = &filterer{}

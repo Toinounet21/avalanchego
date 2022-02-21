@@ -6,9 +6,9 @@ package nftfx
 import (
 	"testing"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/vms/components/verify"
-	"github.com/Toinounet21/crabalanchego/vms/secp256k1fx"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/vms/components/verify"
+	"github.com/Toinounet21/swapalanchego/vms/secp256k1fx"
 )
 
 func TestTransferOutputVerifyNil(t *testing.T) {

@@ -14,18 +14,18 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/message"
-	"github.com/Toinounet21/crabalanchego/snow"
-	"github.com/Toinounet21/crabalanchego/snow/engine/common"
-	"github.com/Toinounet21/crabalanchego/snow/networking/benchlist"
-	"github.com/Toinounet21/crabalanchego/snow/networking/handler"
-	"github.com/Toinounet21/crabalanchego/snow/networking/router"
-	"github.com/Toinounet21/crabalanchego/snow/networking/timeout"
-	"github.com/Toinounet21/crabalanchego/snow/validators"
-	"github.com/Toinounet21/crabalanchego/utils/logging"
-	"github.com/Toinounet21/crabalanchego/utils/timer"
-	"github.com/Toinounet21/crabalanchego/version"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/message"
+	"github.com/Toinounet21/swapalanchego/snow"
+	"github.com/Toinounet21/swapalanchego/snow/engine/common"
+	"github.com/Toinounet21/swapalanchego/snow/networking/benchlist"
+	"github.com/Toinounet21/swapalanchego/snow/networking/handler"
+	"github.com/Toinounet21/swapalanchego/snow/networking/router"
+	"github.com/Toinounet21/swapalanchego/snow/networking/timeout"
+	"github.com/Toinounet21/swapalanchego/snow/validators"
+	"github.com/Toinounet21/swapalanchego/utils/logging"
+	"github.com/Toinounet21/swapalanchego/utils/timer"
+	"github.com/Toinounet21/swapalanchego/version"
 )
 
 func TestSenderContext(t *testing.T) {

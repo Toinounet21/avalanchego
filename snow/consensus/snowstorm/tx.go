@@ -4,8 +4,8 @@
 package snowstorm
 
 import (
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow/choices"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow/choices"
 )
 
 // Whitelister defines the interface for specifying whitelisted operations.

@@ -4,12 +4,12 @@
 package snowstorm
 
 import (
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow"
-	"github.com/Toinounet21/crabalanchego/snow/choices"
-	"github.com/Toinounet21/crabalanchego/utils/sampler"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow"
+	"github.com/Toinounet21/swapalanchego/snow/choices"
+	"github.com/Toinounet21/swapalanchego/utils/sampler"
 
-	sbcon "github.com/Toinounet21/crabalanchego/snow/consensus/snowball"
+	sbcon "github.com/Toinounet21/swapalanchego/snow/consensus/snowball"
 )
 
 type Network struct {

@@ -4,12 +4,12 @@
 package snowman
 
 import (
-	"github.com/Toinounet21/crabalanchego/snow"
-	"github.com/Toinounet21/crabalanchego/snow/consensus/snowball"
-	"github.com/Toinounet21/crabalanchego/snow/consensus/snowman"
-	"github.com/Toinounet21/crabalanchego/snow/engine/common"
-	"github.com/Toinounet21/crabalanchego/snow/engine/snowman/block"
-	"github.com/Toinounet21/crabalanchego/snow/validators"
+	"github.com/Toinounet21/swapalanchego/snow"
+	"github.com/Toinounet21/swapalanchego/snow/consensus/snowball"
+	"github.com/Toinounet21/swapalanchego/snow/consensus/snowman"
+	"github.com/Toinounet21/swapalanchego/snow/engine/common"
+	"github.com/Toinounet21/swapalanchego/snow/engine/snowman/block"
+	"github.com/Toinounet21/swapalanchego/snow/validators"
 )
 
 // Config wraps all the parameters needed for a snowman engine

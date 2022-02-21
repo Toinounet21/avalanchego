@@ -13,8 +13,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/utils"
-	"github.com/Toinounet21/crabalanchego/utils/logging"
+	"github.com/Toinounet21/swapalanchego/utils"
+	"github.com/Toinounet21/swapalanchego/utils/logging"
 )
 
 var (

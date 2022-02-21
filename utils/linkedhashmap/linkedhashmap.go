@@ -7,7 +7,7 @@ import (
 	"container/list"
 	"sync"
 
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 // Hashmap provides an O(1) mapping from a comparable key to any value.

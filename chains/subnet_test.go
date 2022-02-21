@@ -6,7 +6,7 @@ package chains
 import (
 	"testing"
 
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/ids"
 	"github.com/stretchr/testify/assert"
 )
 

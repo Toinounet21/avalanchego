@@ -9,9 +9,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow/uptime/mocks"
-	"github.com/Toinounet21/crabalanchego/utils"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow/uptime/mocks"
+	"github.com/Toinounet21/swapalanchego/utils"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )

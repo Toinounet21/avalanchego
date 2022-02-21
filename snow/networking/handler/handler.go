@@ -8,17 +8,17 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/message"
-	"github.com/Toinounet21/crabalanchego/snow"
-	"github.com/Toinounet21/crabalanchego/snow/engine/common"
-	"github.com/Toinounet21/crabalanchego/snow/networking/tracker"
-	"github.com/Toinounet21/crabalanchego/snow/networking/worker"
-	"github.com/Toinounet21/crabalanchego/snow/validators"
-	"github.com/Toinounet21/crabalanchego/utils/constants"
-	"github.com/Toinounet21/crabalanchego/utils/timer/mockable"
-	"github.com/Toinounet21/crabalanchego/utils/uptime"
-	"github.com/Toinounet21/crabalanchego/version"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/message"
+	"github.com/Toinounet21/swapalanchego/snow"
+	"github.com/Toinounet21/swapalanchego/snow/engine/common"
+	"github.com/Toinounet21/swapalanchego/snow/networking/tracker"
+	"github.com/Toinounet21/swapalanchego/snow/networking/worker"
+	"github.com/Toinounet21/swapalanchego/snow/validators"
+	"github.com/Toinounet21/swapalanchego/utils/constants"
+	"github.com/Toinounet21/swapalanchego/utils/timer/mockable"
+	"github.com/Toinounet21/swapalanchego/utils/uptime"
+	"github.com/Toinounet21/swapalanchego/version"
 )
 
 const (

@@ -6,7 +6,7 @@ package memdb
 import (
 	"testing"
 
-	"github.com/Toinounet21/crabalanchego/database"
+	"github.com/Toinounet21/swapalanchego/database"
 )
 
 func TestInterface(t *testing.T) {

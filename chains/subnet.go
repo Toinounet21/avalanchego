@@ -6,9 +6,9 @@ package chains
 import (
 	"sync"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow/consensus/avalanche"
-	"github.com/Toinounet21/crabalanchego/snow/engine/common"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow/consensus/avalanche"
+	"github.com/Toinounet21/swapalanchego/snow/engine/common"
 )
 
 var _ Subnet = &subnet{}

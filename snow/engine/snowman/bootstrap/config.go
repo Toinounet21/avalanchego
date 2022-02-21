@@ -4,10 +4,10 @@
 package bootstrap
 
 import (
-	"github.com/Toinounet21/crabalanchego/snow/engine/common"
-	"github.com/Toinounet21/crabalanchego/snow/engine/common/queue"
-	"github.com/Toinounet21/crabalanchego/snow/engine/common/tracker"
-	"github.com/Toinounet21/crabalanchego/snow/engine/snowman/block"
+	"github.com/Toinounet21/swapalanchego/snow/engine/common"
+	"github.com/Toinounet21/swapalanchego/snow/engine/common/queue"
+	"github.com/Toinounet21/swapalanchego/snow/engine/common/tracker"
+	"github.com/Toinounet21/swapalanchego/snow/engine/snowman/block"
 )
 
 type Config struct {

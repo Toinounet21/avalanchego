@@ -12,11 +12,11 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/utils/constants"
-	"github.com/Toinounet21/crabalanchego/utils/hashing"
-	"github.com/Toinounet21/crabalanchego/utils/perms"
-	"github.com/Toinounet21/crabalanchego/vms/platformvm"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/utils/constants"
+	"github.com/Toinounet21/swapalanchego/utils/hashing"
+	"github.com/Toinounet21/swapalanchego/utils/perms"
+	"github.com/Toinounet21/swapalanchego/vms/platformvm"
 )
 
 func TestValidateConfig(t *testing.T) {

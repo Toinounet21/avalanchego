@@ -9,17 +9,17 @@ import (
 
 	"github.com/gorilla/rpc/v2"
 
-	"github.com/Toinounet21/crabalanchego/api"
-	"github.com/Toinounet21/crabalanchego/api/server"
-	"github.com/Toinounet21/crabalanchego/chains"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow/engine/common"
-	"github.com/Toinounet21/crabalanchego/utils/constants"
-	"github.com/Toinounet21/crabalanchego/utils/logging"
-	"github.com/Toinounet21/crabalanchego/utils/perms"
-	"github.com/Toinounet21/crabalanchego/utils/profiler"
+	"github.com/Toinounet21/swapalanchego/api"
+	"github.com/Toinounet21/swapalanchego/api/server"
+	"github.com/Toinounet21/swapalanchego/chains"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow/engine/common"
+	"github.com/Toinounet21/swapalanchego/utils/constants"
+	"github.com/Toinounet21/swapalanchego/utils/logging"
+	"github.com/Toinounet21/swapalanchego/utils/perms"
+	"github.com/Toinounet21/swapalanchego/utils/profiler"
 
-	cjson "github.com/Toinounet21/crabalanchego/utils/json"
+	cjson "github.com/Toinounet21/swapalanchego/utils/json"
 )
 
 const (

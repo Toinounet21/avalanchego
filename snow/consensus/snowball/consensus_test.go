@@ -6,7 +6,7 @@ package snowball
 import (
 	"testing"
 
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 // Byzantine is a naive implementation of a multi-choice snowball instance

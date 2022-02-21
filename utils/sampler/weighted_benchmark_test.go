@@ -9,7 +9,7 @@ import (
 	"math"
 	"testing"
 
-	safemath "github.com/Toinounet21/crabalanchego/utils/math"
+	safemath "github.com/Toinounet21/swapalanchego/utils/math"
 )
 
 // BenchmarkAllWeightedSampling

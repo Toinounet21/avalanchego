@@ -8,7 +8,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/Toinounet21/crabalanchego/vms/components/verify"
+	"github.com/Toinounet21/swapalanchego/vms/components/verify"
 )
 
 // List of possible status values:

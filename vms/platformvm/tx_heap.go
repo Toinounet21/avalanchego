@@ -6,7 +6,7 @@ package platformvm
 import (
 	"container/heap"
 
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 var _ TxHeap = &txHeap{}

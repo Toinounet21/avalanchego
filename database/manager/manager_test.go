@@ -12,12 +12,12 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Toinounet21/crabalanchego/database/leveldb"
-	"github.com/Toinounet21/crabalanchego/database/memdb"
-	"github.com/Toinounet21/crabalanchego/database/meterdb"
-	"github.com/Toinounet21/crabalanchego/database/prefixdb"
-	"github.com/Toinounet21/crabalanchego/utils/logging"
-	"github.com/Toinounet21/crabalanchego/version"
+	"github.com/Toinounet21/swapalanchego/database/leveldb"
+	"github.com/Toinounet21/swapalanchego/database/memdb"
+	"github.com/Toinounet21/swapalanchego/database/meterdb"
+	"github.com/Toinounet21/swapalanchego/database/prefixdb"
+	"github.com/Toinounet21/swapalanchego/utils/logging"
+	"github.com/Toinounet21/swapalanchego/version"
 )
 
 func TestNewSingleLevelDB(t *testing.T) {

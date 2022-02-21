@@ -12,11 +12,11 @@ import (
 
 	"github.com/prometheus/client_golang/prometheus"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/message"
-	"github.com/Toinounet21/crabalanchego/utils/math"
-	"github.com/Toinounet21/crabalanchego/utils/timer/mockable"
-	"github.com/Toinounet21/crabalanchego/utils/wrappers"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/message"
+	"github.com/Toinounet21/swapalanchego/utils/math"
+	"github.com/Toinounet21/swapalanchego/utils/timer/mockable"
+	"github.com/Toinounet21/swapalanchego/utils/wrappers"
 )
 
 var errNonPositiveHalflife = errors.New("timeout halflife must be positive")

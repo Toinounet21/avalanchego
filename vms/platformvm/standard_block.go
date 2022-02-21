@@ -7,10 +7,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/Toinounet21/crabalanchego/chains/atomic"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow/choices"
-	"github.com/Toinounet21/crabalanchego/vms/platformvm/status"
+	"github.com/Toinounet21/swapalanchego/chains/atomic"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow/choices"
+	"github.com/Toinounet21/swapalanchego/vms/platformvm/status"
 )
 
 var (

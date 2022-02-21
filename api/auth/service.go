@@ -6,7 +6,7 @@ package auth
 import (
 	"net/http"
 
-	"github.com/Toinounet21/crabalanchego/api"
+	"github.com/Toinounet21/swapalanchego/api"
 )
 
 // Service that serves the Auth API functionality.

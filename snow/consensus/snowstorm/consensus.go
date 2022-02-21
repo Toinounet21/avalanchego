@@ -6,10 +6,10 @@ package snowstorm
 import (
 	"fmt"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow"
 
-	sbcon "github.com/Toinounet21/crabalanchego/snow/consensus/snowball"
+	sbcon "github.com/Toinounet21/swapalanchego/snow/consensus/snowball"
 )
 
 // Consensus is a snowball instance deciding between an unbounded number of

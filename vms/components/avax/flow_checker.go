@@ -6,9 +6,9 @@ package avax
 import (
 	"errors"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/utils/math"
-	"github.com/Toinounet21/crabalanchego/utils/wrappers"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/utils/math"
+	"github.com/Toinounet21/swapalanchego/utils/wrappers"
 )
 
 var errInsufficientFunds = errors.New("insufficient funds")

@@ -8,7 +8,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/Toinounet21/crabalanchego/api/proto/greaderproto"
+	"github.com/Toinounet21/swapalanchego/api/proto/greaderproto"
 )
 
 var _ io.Reader = &Client{}

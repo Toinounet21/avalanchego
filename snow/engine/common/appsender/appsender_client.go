@@ -6,9 +6,9 @@ package appsender
 import (
 	"context"
 
-	"github.com/Toinounet21/crabalanchego/api/proto/appsenderproto"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow/engine/common"
+	"github.com/Toinounet21/swapalanchego/api/proto/appsenderproto"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow/engine/common"
 )
 
 var _ common.AppSender = &Client{}

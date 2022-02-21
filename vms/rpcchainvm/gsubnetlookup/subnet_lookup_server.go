@@ -6,9 +6,9 @@ package gsubnetlookup
 import (
 	"context"
 
-	"github.com/Toinounet21/crabalanchego/api/proto/gsubnetlookupproto"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow"
+	"github.com/Toinounet21/swapalanchego/api/proto/gsubnetlookupproto"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow"
 )
 
 var _ gsubnetlookupproto.SubnetLookupServer = &Server{}

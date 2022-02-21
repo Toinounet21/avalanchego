@@ -6,7 +6,7 @@ package common
 import (
 	"testing"
 
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 // SubnetTest is a test subnet

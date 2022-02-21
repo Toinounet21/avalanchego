@@ -11,13 +11,13 @@ import (
 
 	"github.com/hashicorp/go-plugin"
 
-	"github.com/Toinounet21/crabalanchego/api/proto/gconnproto"
-	"github.com/Toinounet21/crabalanchego/api/proto/greaderproto"
-	"github.com/Toinounet21/crabalanchego/api/proto/gresponsewriterproto"
-	"github.com/Toinounet21/crabalanchego/api/proto/gwriterproto"
-	"github.com/Toinounet21/crabalanchego/vms/rpcchainvm/ghttp/gconn"
-	"github.com/Toinounet21/crabalanchego/vms/rpcchainvm/ghttp/greader"
-	"github.com/Toinounet21/crabalanchego/vms/rpcchainvm/ghttp/gwriter"
+	"github.com/Toinounet21/swapalanchego/api/proto/gconnproto"
+	"github.com/Toinounet21/swapalanchego/api/proto/greaderproto"
+	"github.com/Toinounet21/swapalanchego/api/proto/gresponsewriterproto"
+	"github.com/Toinounet21/swapalanchego/api/proto/gwriterproto"
+	"github.com/Toinounet21/swapalanchego/vms/rpcchainvm/ghttp/gconn"
+	"github.com/Toinounet21/swapalanchego/vms/rpcchainvm/ghttp/greader"
+	"github.com/Toinounet21/swapalanchego/vms/rpcchainvm/ghttp/gwriter"
 )
 
 var (

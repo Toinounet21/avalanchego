@@ -4,7 +4,7 @@
 package message
 
 import (
-	"github.com/Toinounet21/crabalanchego/utils/wrappers"
+	"github.com/Toinounet21/swapalanchego/utils/wrappers"
 )
 
 // Field that may be packed into a message

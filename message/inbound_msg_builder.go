@@ -6,8 +6,8 @@ package message
 import (
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/utils/timer/mockable"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/utils/timer/mockable"
 )
 
 var _ InboundMsgBuilder = &inMsgBuilder{}

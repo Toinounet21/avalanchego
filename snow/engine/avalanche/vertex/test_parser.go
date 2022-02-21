@@ -7,7 +7,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/Toinounet21/crabalanchego/snow/consensus/avalanche"
+	"github.com/Toinounet21/swapalanchego/snow/consensus/avalanche"
 )
 
 var (

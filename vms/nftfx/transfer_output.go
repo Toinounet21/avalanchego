@@ -7,11 +7,11 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/Toinounet21/crabalanchego/vms/types"
+	"github.com/Toinounet21/swapalanchego/vms/types"
 
-	"github.com/Toinounet21/crabalanchego/utils/units"
-	"github.com/Toinounet21/crabalanchego/vms/components/verify"
-	"github.com/Toinounet21/crabalanchego/vms/secp256k1fx"
+	"github.com/Toinounet21/swapalanchego/utils/units"
+	"github.com/Toinounet21/swapalanchego/vms/components/verify"
+	"github.com/Toinounet21/swapalanchego/vms/secp256k1fx"
 )
 
 const (

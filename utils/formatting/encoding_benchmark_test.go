@@ -8,7 +8,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/Toinounet21/crabalanchego/utils/units"
+	"github.com/Toinounet21/swapalanchego/utils/units"
 )
 
 func BenchmarkEncodings(b *testing.B) {

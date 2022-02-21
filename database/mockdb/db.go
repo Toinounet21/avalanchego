@@ -6,7 +6,7 @@ package mockdb
 import (
 	"errors"
 
-	"github.com/Toinounet21/crabalanchego/database"
+	"github.com/Toinounet21/swapalanchego/database"
 )
 
 var (

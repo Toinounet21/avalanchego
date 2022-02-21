@@ -4,7 +4,7 @@
 package benchlist
 
 import (
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 // Benchable is notified when a validator is benched or unbenched from a given chain

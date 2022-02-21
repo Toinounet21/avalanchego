@@ -16,7 +16,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/utils/perms"
+	"github.com/Toinounet21/swapalanchego/utils/perms"
 )
 
 // InitNodeStakingKeyPair generates a self-signed TLS key/cert pair to use in

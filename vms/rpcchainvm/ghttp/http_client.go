@@ -10,13 +10,13 @@ import (
 
 	"github.com/hashicorp/go-plugin"
 
-	"github.com/Toinounet21/crabalanchego/api/proto/ghttpproto"
-	"github.com/Toinounet21/crabalanchego/api/proto/greadcloserproto"
-	"github.com/Toinounet21/crabalanchego/api/proto/gresponsewriterproto"
-	"github.com/Toinounet21/crabalanchego/utils/math"
-	"github.com/Toinounet21/crabalanchego/vms/rpcchainvm/ghttp/greadcloser"
-	"github.com/Toinounet21/crabalanchego/vms/rpcchainvm/ghttp/gresponsewriter"
-	"github.com/Toinounet21/crabalanchego/vms/rpcchainvm/grpcutils"
+	"github.com/Toinounet21/swapalanchego/api/proto/ghttpproto"
+	"github.com/Toinounet21/swapalanchego/api/proto/greadcloserproto"
+	"github.com/Toinounet21/swapalanchego/api/proto/gresponsewriterproto"
+	"github.com/Toinounet21/swapalanchego/utils/math"
+	"github.com/Toinounet21/swapalanchego/vms/rpcchainvm/ghttp/greadcloser"
+	"github.com/Toinounet21/swapalanchego/vms/rpcchainvm/ghttp/gresponsewriter"
+	"github.com/Toinounet21/swapalanchego/vms/rpcchainvm/grpcutils"
 )
 
 var _ http.Handler = &Client{}

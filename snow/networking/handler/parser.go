@@ -6,8 +6,8 @@ package handler
 import (
 	"errors"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/message"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/message"
 )
 
 var errDuplicatedContainerID = errors.New("inbound message contains duplicated container ID")

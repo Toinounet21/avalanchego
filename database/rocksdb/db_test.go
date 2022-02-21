@@ -9,8 +9,8 @@ package rocksdb
 import (
 	"testing"
 
-	"github.com/Toinounet21/crabalanchego/database"
-	"github.com/Toinounet21/crabalanchego/utils/logging"
+	"github.com/Toinounet21/swapalanchego/database"
+	"github.com/Toinounet21/swapalanchego/utils/logging"
 )
 
 func TestInterface(t *testing.T) {

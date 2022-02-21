@@ -1,2 +1,2 @@
 log_level: info
-avalanche_binary: ~/go/src/github.com/Toinounet21/crabalanchego/build/avalanchego
+avalanche_binary: ~/go/src/github.com/Toinounet21/swapalanchego/build/avalanchego

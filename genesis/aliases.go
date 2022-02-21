@@ -4,12 +4,12 @@
 package genesis
 
 import (
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/utils/constants"
-	"github.com/Toinounet21/crabalanchego/vms/nftfx"
-	"github.com/Toinounet21/crabalanchego/vms/platformvm"
-	"github.com/Toinounet21/crabalanchego/vms/propertyfx"
-	"github.com/Toinounet21/crabalanchego/vms/secp256k1fx"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/utils/constants"
+	"github.com/Toinounet21/swapalanchego/vms/nftfx"
+	"github.com/Toinounet21/swapalanchego/vms/platformvm"
+	"github.com/Toinounet21/swapalanchego/vms/propertyfx"
+	"github.com/Toinounet21/swapalanchego/vms/secp256k1fx"
 )
 
 // Aliases returns the default aliases based on the network ID

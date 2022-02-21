@@ -8,8 +8,8 @@ import (
 	"math"
 	"time"
 
-	safemath "github.com/Toinounet21/crabalanchego/utils/math"
-	"github.com/Toinounet21/crabalanchego/utils/timer/mockable"
+	safemath "github.com/Toinounet21/swapalanchego/utils/math"
+	"github.com/Toinounet21/swapalanchego/utils/timer/mockable"
 )
 
 var errNoValidWeightedSamplers = errors.New("no valid weighted samplers found")

@@ -10,8 +10,8 @@ import (
 
 	"github.com/hashicorp/go-plugin"
 
-	"github.com/Toinounet21/crabalanchego/api/proto/pluginproto"
-	"github.com/Toinounet21/crabalanchego/app"
+	"github.com/Toinounet21/swapalanchego/api/proto/pluginproto"
+	"github.com/Toinounet21/swapalanchego/app"
 )
 
 const (

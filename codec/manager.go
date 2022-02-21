@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/Toinounet21/crabalanchego/utils/units"
-	"github.com/Toinounet21/crabalanchego/utils/wrappers"
+	"github.com/Toinounet21/swapalanchego/utils/units"
+	"github.com/Toinounet21/swapalanchego/utils/wrappers"
 )
 
 const (

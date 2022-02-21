@@ -8,10 +8,10 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/vms/components/avax"
-	"github.com/Toinounet21/crabalanchego/vms/components/keystore"
-	"github.com/Toinounet21/crabalanchego/vms/secp256k1fx"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/vms/components/avax"
+	"github.com/Toinounet21/swapalanchego/vms/components/keystore"
+	"github.com/Toinounet21/swapalanchego/vms/secp256k1fx"
 )
 
 func BenchmarkLoadUser(b *testing.B) {

@@ -6,9 +6,9 @@ package avax
 import (
 	"fmt"
 
-	"github.com/Toinounet21/crabalanchego/chains/atomic"
-	"github.com/Toinounet21/crabalanchego/codec"
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/chains/atomic"
+	"github.com/Toinounet21/swapalanchego/codec"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 var _ AtomicUTXOManager = &atomicUTXOManager{}

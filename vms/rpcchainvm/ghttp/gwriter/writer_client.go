@@ -8,7 +8,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/Toinounet21/crabalanchego/api/proto/gwriterproto"
+	"github.com/Toinounet21/swapalanchego/api/proto/gwriterproto"
 )
 
 var _ io.Writer = &Client{}

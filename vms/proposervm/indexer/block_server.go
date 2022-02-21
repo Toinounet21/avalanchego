@@ -4,9 +4,9 @@
 package indexer
 
 import (
-	"github.com/Toinounet21/crabalanchego/database/versiondb"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow/consensus/snowman"
+	"github.com/Toinounet21/swapalanchego/database/versiondb"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow/consensus/snowman"
 )
 
 // BlockServer represents all requests heightIndexer can issue

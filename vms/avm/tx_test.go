@@ -7,13 +7,13 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/Toinounet21/crabalanchego/codec"
-	"github.com/Toinounet21/crabalanchego/codec/linearcodec"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/utils/units"
-	"github.com/Toinounet21/crabalanchego/utils/wrappers"
-	"github.com/Toinounet21/crabalanchego/vms/components/avax"
-	"github.com/Toinounet21/crabalanchego/vms/secp256k1fx"
+	"github.com/Toinounet21/swapalanchego/codec"
+	"github.com/Toinounet21/swapalanchego/codec/linearcodec"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/utils/units"
+	"github.com/Toinounet21/swapalanchego/utils/wrappers"
+	"github.com/Toinounet21/swapalanchego/vms/components/avax"
+	"github.com/Toinounet21/swapalanchego/vms/secp256k1fx"
 )
 
 func setupCodec() (codec.GeneralCodec, codec.Manager) {

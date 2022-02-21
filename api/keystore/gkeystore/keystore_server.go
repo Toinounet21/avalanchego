@@ -10,13 +10,13 @@ import (
 
 	"github.com/hashicorp/go-plugin"
 
-	"github.com/Toinounet21/crabalanchego/api/keystore"
-	"github.com/Toinounet21/crabalanchego/api/proto/gkeystoreproto"
-	"github.com/Toinounet21/crabalanchego/api/proto/rpcdbproto"
-	"github.com/Toinounet21/crabalanchego/database"
-	"github.com/Toinounet21/crabalanchego/database/rpcdb"
-	"github.com/Toinounet21/crabalanchego/utils/math"
-	"github.com/Toinounet21/crabalanchego/vms/rpcchainvm/grpcutils"
+	"github.com/Toinounet21/swapalanchego/api/keystore"
+	"github.com/Toinounet21/swapalanchego/api/proto/gkeystoreproto"
+	"github.com/Toinounet21/swapalanchego/api/proto/rpcdbproto"
+	"github.com/Toinounet21/swapalanchego/database"
+	"github.com/Toinounet21/swapalanchego/database/rpcdb"
+	"github.com/Toinounet21/swapalanchego/utils/math"
+	"github.com/Toinounet21/swapalanchego/vms/rpcchainvm/grpcutils"
 )
 
 var _ gkeystoreproto.KeystoreServer = &Server{}

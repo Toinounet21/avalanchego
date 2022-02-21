@@ -4,7 +4,7 @@
 package snow
 
 import (
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 // Acceptor is implemented when a struct is monitoring if a message is accepted

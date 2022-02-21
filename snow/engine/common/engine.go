@@ -6,10 +6,10 @@ package common
 import (
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/api/health"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow"
-	"github.com/Toinounet21/crabalanchego/snow/validators"
+	"github.com/Toinounet21/swapalanchego/api/health"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow"
+	"github.com/Toinounet21/swapalanchego/snow/validators"
 )
 
 // Engine describes the standard interface of a consensus engine

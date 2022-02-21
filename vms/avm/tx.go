@@ -6,17 +6,17 @@ package avm
 import (
 	"fmt"
 
-	"github.com/Toinounet21/crabalanchego/codec"
-	"github.com/Toinounet21/crabalanchego/database"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow"
-	"github.com/Toinounet21/crabalanchego/utils/crypto"
-	"github.com/Toinounet21/crabalanchego/utils/hashing"
-	"github.com/Toinounet21/crabalanchego/vms/components/avax"
-	"github.com/Toinounet21/crabalanchego/vms/components/verify"
-	"github.com/Toinounet21/crabalanchego/vms/nftfx"
-	"github.com/Toinounet21/crabalanchego/vms/propertyfx"
-	"github.com/Toinounet21/crabalanchego/vms/secp256k1fx"
+	"github.com/Toinounet21/swapalanchego/codec"
+	"github.com/Toinounet21/swapalanchego/database"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow"
+	"github.com/Toinounet21/swapalanchego/utils/crypto"
+	"github.com/Toinounet21/swapalanchego/utils/hashing"
+	"github.com/Toinounet21/swapalanchego/vms/components/avax"
+	"github.com/Toinounet21/swapalanchego/vms/components/verify"
+	"github.com/Toinounet21/swapalanchego/vms/nftfx"
+	"github.com/Toinounet21/swapalanchego/vms/propertyfx"
+	"github.com/Toinounet21/swapalanchego/vms/secp256k1fx"
 )
 
 type UnsignedTx interface {

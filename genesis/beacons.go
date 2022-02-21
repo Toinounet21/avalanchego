@@ -4,8 +4,8 @@
 package genesis
 
 import (
-	"github.com/Toinounet21/crabalanchego/utils/constants"
-	"github.com/Toinounet21/crabalanchego/utils/sampler"
+	"github.com/Toinounet21/swapalanchego/utils/constants"
+	"github.com/Toinounet21/swapalanchego/utils/sampler"
 )
 
 // getIPs returns the beacon IPs for each network

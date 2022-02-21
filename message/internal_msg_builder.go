@@ -4,8 +4,8 @@
 package message
 
 import (
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/version"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/version"
 )
 
 var _ InternalMsgBuilder = internalMsgBuilder{}

@@ -10,7 +10,7 @@ import (
 	"runtime"
 	"runtime/pprof"
 
-	"github.com/Toinounet21/crabalanchego/utils/perms"
+	"github.com/Toinounet21/swapalanchego/utils/perms"
 )
 
 const (

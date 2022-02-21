@@ -4,8 +4,8 @@
 package vertex
 
 import (
-	"github.com/Toinounet21/crabalanchego/snow/consensus/avalanche"
-	"github.com/Toinounet21/crabalanchego/utils/hashing"
+	"github.com/Toinounet21/swapalanchego/snow/consensus/avalanche"
+	"github.com/Toinounet21/swapalanchego/utils/hashing"
 )
 
 // Parser parses bytes into a vertex.

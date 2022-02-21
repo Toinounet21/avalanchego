@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow"
-	"github.com/Toinounet21/crabalanchego/utils/logging"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow"
+	"github.com/Toinounet21/swapalanchego/utils/logging"
 )
 
 var _ snow.EventDispatcher = &EventDispatcher{}

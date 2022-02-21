@@ -9,8 +9,8 @@ import (
 	"crypto/rsa"
 	"crypto/x509"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/utils/hashing"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/utils/hashing"
 )
 
 const rsaPSSSize = 3072

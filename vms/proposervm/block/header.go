@@ -4,7 +4,7 @@
 package block
 
 import (
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 type Header interface {

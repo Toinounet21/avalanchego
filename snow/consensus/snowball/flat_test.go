@@ -6,7 +6,7 @@ package snowball
 import (
 	"testing"
 
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 func TestFlatParams(t *testing.T) { ParamsTest(t, FlatFactory{}) }

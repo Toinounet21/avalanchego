@@ -4,7 +4,7 @@
 package snowball
 
 import (
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 // FlatFactory implements Factory by returning a flat struct

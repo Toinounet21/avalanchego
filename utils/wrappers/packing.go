@@ -9,8 +9,8 @@ import (
 	"errors"
 	"math"
 
-	"github.com/Toinounet21/crabalanchego/utils"
-	"github.com/Toinounet21/crabalanchego/utils/hashing"
+	"github.com/Toinounet21/swapalanchego/utils"
+	"github.com/Toinounet21/swapalanchego/utils/hashing"
 )
 
 const (

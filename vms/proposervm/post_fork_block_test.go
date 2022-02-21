@@ -9,12 +9,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/database"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow/choices"
-	"github.com/Toinounet21/crabalanchego/snow/consensus/snowman"
-	"github.com/Toinounet21/crabalanchego/vms/proposervm/block"
-	"github.com/Toinounet21/crabalanchego/vms/proposervm/proposer"
+	"github.com/Toinounet21/swapalanchego/database"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow/choices"
+	"github.com/Toinounet21/swapalanchego/snow/consensus/snowman"
+	"github.com/Toinounet21/swapalanchego/vms/proposervm/block"
+	"github.com/Toinounet21/swapalanchego/vms/proposervm/proposer"
 )
 
 // ProposerBlock Option interface tests section

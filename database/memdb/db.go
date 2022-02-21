@@ -8,9 +8,9 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/Toinounet21/crabalanchego/database"
-	"github.com/Toinounet21/crabalanchego/database/nodb"
-	"github.com/Toinounet21/crabalanchego/utils"
+	"github.com/Toinounet21/swapalanchego/database"
+	"github.com/Toinounet21/swapalanchego/database/nodb"
+	"github.com/Toinounet21/swapalanchego/utils"
 )
 
 const (

@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 type timeout struct {

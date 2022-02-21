@@ -6,8 +6,8 @@ package message
 import (
 	"testing"
 
-	"github.com/Toinounet21/crabalanchego/utils"
-	"github.com/Toinounet21/crabalanchego/utils/units"
+	"github.com/Toinounet21/swapalanchego/utils"
+	"github.com/Toinounet21/swapalanchego/utils/units"
 
 	"github.com/stretchr/testify/assert"
 )

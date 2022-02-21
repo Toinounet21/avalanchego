@@ -4,9 +4,9 @@
 package proposervm
 
 import (
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow/consensus/snowman"
-	"github.com/Toinounet21/crabalanchego/vms/proposervm/indexer"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow/consensus/snowman"
+	"github.com/Toinounet21/swapalanchego/vms/proposervm/indexer"
 )
 
 var _ indexer.BlockServer = &VM{}

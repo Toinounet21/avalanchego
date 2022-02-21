@@ -3,7 +3,7 @@
 
 package codec
 
-import "github.com/Toinounet21/crabalanchego/utils/wrappers"
+import "github.com/Toinounet21/swapalanchego/utils/wrappers"
 
 // Codec marshals and unmarshals
 type Codec interface {

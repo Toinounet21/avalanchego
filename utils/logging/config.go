@@ -9,8 +9,8 @@ import (
 
 	"github.com/mitchellh/go-homedir"
 
-	"github.com/Toinounet21/crabalanchego/utils/constants"
-	"github.com/Toinounet21/crabalanchego/utils/units"
+	"github.com/Toinounet21/swapalanchego/utils/constants"
+	"github.com/Toinounet21/swapalanchego/utils/units"
 )
 
 // DefaultLogDirectory is the default directory where logs are saved

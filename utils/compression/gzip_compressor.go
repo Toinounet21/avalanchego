@@ -11,7 +11,7 @@ import (
 	"io/ioutil"
 	"sync"
 
-	"github.com/Toinounet21/crabalanchego/utils"
+	"github.com/Toinounet21/swapalanchego/utils"
 )
 
 // gzipCompressor implements Compressor

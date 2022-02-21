@@ -6,7 +6,7 @@ package bloom
 import (
 	"testing"
 
-	"github.com/Toinounet21/crabalanchego/utils/units"
+	"github.com/Toinounet21/swapalanchego/utils/units"
 	"github.com/stretchr/testify/assert"
 )
 

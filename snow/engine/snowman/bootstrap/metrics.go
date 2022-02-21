@@ -6,7 +6,7 @@ package bootstrap
 import (
 	"github.com/prometheus/client_golang/prometheus"
 
-	"github.com/Toinounet21/crabalanchego/utils/wrappers"
+	"github.com/Toinounet21/swapalanchego/utils/wrappers"
 )
 
 type metrics struct {

@@ -10,8 +10,8 @@ import (
 	"crypto/x509"
 	"errors"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/utils/hashing"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/utils/hashing"
 )
 
 var errWrongKeyType = errors.New("wrong key type")

@@ -6,9 +6,9 @@ package vertex
 import (
 	"errors"
 
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow/consensus/snowstorm"
-	"github.com/Toinounet21/crabalanchego/snow/engine/common"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow/consensus/snowstorm"
+	"github.com/Toinounet21/swapalanchego/snow/engine/common"
 )
 
 var (

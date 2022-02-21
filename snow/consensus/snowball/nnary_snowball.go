@@ -6,7 +6,7 @@ package snowball
 import (
 	"fmt"
 
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 // nnarySnowball is a naive implementation of a multi-color snowball instance

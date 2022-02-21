@@ -4,10 +4,10 @@
 package common
 
 import (
-	"github.com/Toinounet21/crabalanchego/api/health"
-	"github.com/Toinounet21/crabalanchego/database/manager"
-	"github.com/Toinounet21/crabalanchego/snow"
-	"github.com/Toinounet21/crabalanchego/snow/validators"
+	"github.com/Toinounet21/swapalanchego/api/health"
+	"github.com/Toinounet21/swapalanchego/database/manager"
+	"github.com/Toinounet21/swapalanchego/snow"
+	"github.com/Toinounet21/swapalanchego/snow/validators"
 )
 
 // VM describes the interface that all consensus VMs must implement

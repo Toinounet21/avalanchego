@@ -1,6 +1,6 @@
 syntax = "proto3";
 package appsenderproto;
-option go_package = "github.com/Toinounet21/crabalanchego/snow/engine/common/appsender/appsenderproto";
+option go_package = "github.com/Toinounet21/swapalanchego/snow/engine/common/appsender/appsenderproto";
 import "google/protobuf/empty.proto";
 
 message SendAppRequestMsg {

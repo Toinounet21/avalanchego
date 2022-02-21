@@ -7,11 +7,11 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/Toinounet21/crabalanchego/cache"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/snow/choices"
-	"github.com/Toinounet21/crabalanchego/snow/consensus/snowstorm"
-	"github.com/Toinounet21/crabalanchego/vms/components/avax"
+	"github.com/Toinounet21/swapalanchego/cache"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/snow/choices"
+	"github.com/Toinounet21/swapalanchego/snow/consensus/snowstorm"
+	"github.com/Toinounet21/swapalanchego/vms/components/avax"
 )
 
 var (

@@ -9,14 +9,14 @@ import (
 
 	"github.com/gorilla/rpc/v2"
 
-	"github.com/Toinounet21/crabalanchego/api"
-	"github.com/Toinounet21/crabalanchego/api/server"
-	"github.com/Toinounet21/crabalanchego/chains"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/ipcs"
-	"github.com/Toinounet21/crabalanchego/snow/engine/common"
-	"github.com/Toinounet21/crabalanchego/utils/json"
-	"github.com/Toinounet21/crabalanchego/utils/logging"
+	"github.com/Toinounet21/swapalanchego/api"
+	"github.com/Toinounet21/swapalanchego/api/server"
+	"github.com/Toinounet21/swapalanchego/chains"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/ipcs"
+	"github.com/Toinounet21/swapalanchego/snow/engine/common"
+	"github.com/Toinounet21/swapalanchego/utils/json"
+	"github.com/Toinounet21/swapalanchego/utils/logging"
 )
 
 // IPCServer maintains the IPCs

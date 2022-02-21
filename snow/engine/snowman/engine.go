@@ -4,8 +4,8 @@
 package snowman
 
 import (
-	"github.com/Toinounet21/crabalanchego/snow/engine/common"
-	"github.com/Toinounet21/crabalanchego/snow/engine/snowman/block"
+	"github.com/Toinounet21/swapalanchego/snow/engine/common"
+	"github.com/Toinounet21/swapalanchego/snow/engine/snowman/block"
 )
 
 // Engine describes the events that can occur to a Snowman instance.

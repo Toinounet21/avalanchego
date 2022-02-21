@@ -8,7 +8,7 @@ import (
 
 	"google.golang.org/protobuf/types/known/emptypb"
 
-	"github.com/Toinounet21/crabalanchego/api/proto/vmproto"
+	"github.com/Toinounet21/swapalanchego/api/proto/vmproto"
 )
 
 func (vm *VMServer) Gather(context.Context, *emptypb.Empty) (*vmproto.GatherResponse, error) {

@@ -10,8 +10,8 @@ import (
 
 	"github.com/gorilla/rpc/v2"
 
-	"github.com/Toinounet21/crabalanchego/utils/json"
-	"github.com/Toinounet21/crabalanchego/utils/logging"
+	"github.com/Toinounet21/swapalanchego/utils/json"
+	"github.com/Toinounet21/swapalanchego/utils/logging"
 )
 
 // NewGetAndPostHandler returns a health handler that supports GET and jsonrpc

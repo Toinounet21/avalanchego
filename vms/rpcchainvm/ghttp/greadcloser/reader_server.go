@@ -7,7 +7,7 @@ import (
 	"context"
 	"io"
 
-	"github.com/Toinounet21/crabalanchego/api/proto/greadcloserproto"
+	"github.com/Toinounet21/swapalanchego/api/proto/greadcloserproto"
 )
 
 var _ greadcloserproto.ReaderServer = &Server{}

@@ -6,7 +6,7 @@ package poll
 import (
 	"testing"
 
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 func TestNoEarlyTermResults(t *testing.T) {

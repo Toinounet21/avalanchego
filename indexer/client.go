@@ -7,8 +7,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/Toinounet21/crabalanchego/utils/formatting"
-	"github.com/Toinounet21/crabalanchego/utils/rpc"
+	"github.com/Toinounet21/swapalanchego/utils/formatting"
+	"github.com/Toinounet21/swapalanchego/utils/rpc"
 )
 
 // Interface compliance

@@ -8,13 +8,13 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/Toinounet21/crabalanchego/api"
-	"github.com/Toinounet21/crabalanchego/ids"
-	"github.com/Toinounet21/crabalanchego/vms/components/avax"
-	"github.com/Toinounet21/crabalanchego/vms/secp256k1fx"
+	"github.com/Toinounet21/swapalanchego/api"
+	"github.com/Toinounet21/swapalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/vms/components/avax"
+	"github.com/Toinounet21/swapalanchego/vms/secp256k1fx"
 
-	"github.com/Toinounet21/crabalanchego/utils/formatting"
-	safemath "github.com/Toinounet21/crabalanchego/utils/math"
+	"github.com/Toinounet21/swapalanchego/utils/formatting"
+	safemath "github.com/Toinounet21/swapalanchego/utils/math"
 )
 
 type WalletService struct {

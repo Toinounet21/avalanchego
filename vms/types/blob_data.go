@@ -6,7 +6,7 @@ package types
 import (
 	"encoding/json"
 
-	"github.com/Toinounet21/crabalanchego/utils/formatting"
+	"github.com/Toinounet21/swapalanchego/utils/formatting"
 )
 
 // JSONByteSlice represents [[]byte] that is json marshalled to hex

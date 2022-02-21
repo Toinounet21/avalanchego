@@ -4,7 +4,7 @@
 package choices
 
 import (
-	"github.com/Toinounet21/crabalanchego/ids"
+	"github.com/Toinounet21/swapalanchego/ids"
 )
 
 // Decidable represents element that can be decided.

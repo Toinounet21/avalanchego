@@ -6,7 +6,7 @@ package version
 import (
 	"time"
 
-	"github.com/Toinounet21/crabalanchego/utils/constants"
+	"github.com/Toinounet21/swapalanchego/utils/constants"
 )
 
 // These are globals that describe network upgrades and node versions
